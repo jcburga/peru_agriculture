@@ -1,1 +1,2 @@
-an automated financial decision making system for sustainable bleded investments in agriculture in Peru  
+an automated financial_placement decision_making_system for sustainable_blended_investments in agriculture in peru
+#FINTECH  #AGRICULTURE #PERU / ANDEAN REGION
