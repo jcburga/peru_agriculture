@@ -1,0 +1,146 @@
+﻿index,year,indicators_id,indicators,usd_millions
+1,1994,1,Foreign Investment (Millones US$),4.82
+2,1994,2.1,Placement Cajas Rurales PEN,5568
+3,1994,2.2,Cajas Rurales PEN 2007,5296.96
+4,1994,3.1,Placement Local Banks PEN 2007,422251.54
+5,1994,3.2,Placement Local Banks PEN,443858
+6,1995,1,Foreign Investment (Millones US$),7.66
+7,1995,2.1,Placement Cajas Rurales PEN,25436
+8,1995,2.2,Cajas Rurales PEN 2007,38863.4
+9,1995,3.1,Placement Local Banks PEN 2007,911468.73
+10,1995,3.2,Placement Local Banks PEN,596554
+11,1996,1,Foreign Investment (Millones US$),7.2
+12,1996,2.1,Placement Cajas Rurales PEN,61648
+13,1996,2.2,Cajas Rurales PEN 2007,84219.73
+14,1996,3.1,Placement Local Banks PEN 2007,1248477.48
+15,1996,3.2,Placement Local Banks PEN,913873
+16,1997,1,Foreign Investment (Millones US$),7.7
+17,1997,2.1,Placement Cajas Rurales PEN,89312
+18,1997,2.2,Cajas Rurales PEN 2007,114605.61
+19,1997,3.1,Placement Local Banks PEN 2007,1530073.15
+20,1997,3.2,Placement Local Banks PEN,1192384
+21,1998,1,Foreign Investment (Millones US$),26.22
+22,1998,2.1,Placement Cajas Rurales PEN,115067
+23,1998,2.2,Cajas Rurales PEN 2007,139287.82
+24,1998,3.1,Placement Local Banks PEN 2007,1670951.52
+25,1998,3.2,Placement Local Banks PEN,1380389
+26,1999,1,Foreign Investment (Millones US$),42.09
+27,1999,2.1,Placement Cajas Rurales PEN,118960
+28,1999,2.2,Cajas Rurales PEN 2007,138827.02
+29,1999,3.1,Placement Local Banks PEN 2007,1529505.9
+30,1999,3.2,Placement Local Banks PEN,1310624
+31,2000,1,Foreign Investment (Millones US$),44.4
+32,2000,2.1,Placement Cajas Rurales PEN,121290
+33,2000,2.2,Cajas Rurales PEN 2007,136450.75
+34,2000,3.1,Placement Local Banks PEN 2007,1554195.31
+35,2000,3.2,Placement Local Banks PEN,1381512
+36,2001,1,Foreign Investment (Millones US$),44.4
+37,2001,2.1,Placement Cajas Rurales PEN,122356
+38,2001,2.2,Cajas Rurales PEN 2007,137825.52
+39,2001,3.1,Placement Local Banks PEN 2007,1358872.7
+40,2001,3.2,Placement Local Banks PEN,1206353
+41,2002,1,Foreign Investment (Millones US$),44.4
+42,2002,2.1,Placement Cajas Rurales PEN,104593
+43,2002,2.2,Cajas Rurales PEN 2007,116057.49
+44,2002,3.1,Placement Local Banks PEN 2007,1294394.99
+45,2002,3.2,Placement Local Banks PEN,1166531
+46,2003,1,Foreign Investment (Millones US$),44.4
+47,2003,2.1,Placement Cajas Rurales PEN,99512.67
+48,2003,2.2,Cajas Rurales PEN 2007,107744.2
+49,2003,3.1,Placement Local Banks PEN 2007,1239352.01
+50,2003,3.2,Placement Local Banks PEN,1144667
+51,2004,1,Foreign Investment (Millones US$),44.4
+52,2004,2.1,Placement Cajas Rurales PEN,94858.53
+53,2004,2.2,Cajas Rurales PEN 2007,99250.1
+54,2004,3.1,Placement Local Banks PEN 2007,1099522.11
+55,2004,3.2,Placement Local Banks PEN,1050871
+56,2005,1,Foreign Investment (Millones US$),44.4
+57,2005,2.1,Placement Cajas Rurales PEN,110164
+58,2005,2.2,Cajas Rurales PEN 2007,113567.16
+59,2005,3.1,Placement Local Banks PEN 2007,1260893.01
+60,2005,3.2,Placement Local Banks PEN,1223109
+61,2006,1,Foreign Investment (Millones US$),44.4
+62,2006,2.1,Placement Cajas Rurales PEN,138125
+63,2006,2.2,Cajas Rurales PEN 2007,140790.46
+64,2006,3.1,Placement Local Banks PEN 2007,1229550.96
+65,2006,3.2,Placement Local Banks PEN,1206273
+66,2007,1,Foreign Investment (Millones US$),44.83
+67,2007,2.1,Placement Cajas Rurales PEN,164584.13
+68,2007,2.2,Cajas Rurales PEN 2007,161420.12
+69,2007,3.1,Placement Local Banks PEN 2007,1455662.39
+70,2007,3.2,Placement Local Banks PEN,1484195
+71,2008,1,Foreign Investment (Millones US$),45.66
+72,2008,2.1,Placement Cajas Rurales PEN,229010.86
+73,2008,2.2,Cajas Rurales PEN 2007,210602.77
+74,2008,3.1,Placement Local Banks PEN 2007,2099313.88
+75,2008,3.2,Placement Local Banks PEN,2282808
+76,2009,1,Foreign Investment (Millones US$),45.66
+77,2009,2.1,Placement Cajas Rurales PEN,292570.09
+78,2009,2.2,Cajas Rurales PEN 2007,268394.63
+79,2009,3.1,Placement Local Banks PEN 2007,2217124.12
+80,2009,3.2,Placement Local Banks PEN,2416830
+81,2010,1,Foreign Investment (Millones US$),45.66
+82,2010,2.1,Placement Cajas Rurales PEN,363264.13
+83,2010,2.2,Cajas Rurales PEN 2007,326468.2
+84,2010,3.1,Placement Local Banks PEN 2007,2405138.09
+85,2010,3.2,Placement Local Banks PEN,2676218.98
+86,2011,1,Foreign Investment (Millones US$),45.66
+87,2011,2.1,Placement Cajas Rurales PEN,425604.93
+88,2011,2.2,Cajas Rurales PEN 2007,365190.1
+89,2011,3.1,Placement Local Banks PEN 2007,2723104.32
+90,2011,3.2,Placement Local Banks PEN,3173598.13
+91,2012,1,Foreign Investment (Millones US$),45.66
+92,2012,2.1,Placement Cajas Rurales PEN,379835.07
+93,2012,2.2,Cajas Rurales PEN 2007,317505.41
+94,2012,3.1,Placement Local Banks PEN 2007,3029151.43
+95,2012,3.2,Placement Local Banks PEN,3623805.84
+96,2013,1,Foreign Investment (Millones US$),45.66
+97,2013,2.1,Placement Cajas Rurales PEN,211205.42
+98,2013,2.2,Cajas Rurales PEN 2007,171638.99
+99,2013,3.1,Placement Local Banks PEN 2007,3515262.22
+100,2013,3.2,Placement Local Banks PEN,4325604.77
+101,2014,1,Foreign Investment (Millones US$),69.8
+102,2014,2.1,Placement Cajas Rurales PEN,226997.57
+103,2014,2.2,Cajas Rurales PEN 2007,178710.95
+104,2014,3.1,Placement Local Banks PEN 2007,3852694.21
+105,2014,3.2,Placement Local Banks PEN,4893669
+106,2015,1,Foreign Investment (Millones US$),69.8
+107,2015,2.1,Placement Cajas Rurales PEN,120445.05
+108,2015,2.2,Cajas Rurales PEN 2007,90829.52
+109,2015,3.1,Placement Local Banks PEN 2007,4645959.84
+110,2015,3.2,Placement Local Banks PEN,6160803.88
+111,2016,1,Foreign Investment (Millones US$),82.95
+112,2016,2.1,Placement Cajas Rurales PEN,101267.23
+113,2016,2.2,Cajas Rurales PEN 2007,73974.25
+114,2016,3.1,Placement Local Banks PEN 2007,4666295.64
+115,2016,3.2,Placement Local Banks PEN,6387937.36
+116,2017,1,Foreign Investment (Millones US$),82.95
+117,2017,2.1,Placement Cajas Rurales PEN,131243.38
+118,2017,2.2,Cajas Rurales PEN 2007,94580.5
+119,2017,3.1,Placement Local Banks PEN 2007,4917144.87
+120,2017,3.2,Placement Local Banks PEN,6823211.12
+121,2018,1,Foreign Investment (Millones US$),82.95
+122,2018,2.1,Placement Cajas Rurales PEN,158407.43
+123,2018,2.2,Cajas Rurales PEN 2007,111707.06
+124,2018,3.1,Placement Local Banks PEN 2007,5310201.73
+125,2018,3.2,Placement Local Banks PEN,7530190.23
+126,2019,1,Foreign Investment (Millones US$),82.95
+127,2019,2.1,Placement Cajas Rurales PEN,160608.02
+128,2019,2.2,Cajas Rurales PEN 2007,111146.99
+129,2019,3.1,Placement Local Banks PEN 2007,6220238.7
+130,2019,3.2,Placement Local Banks PEN,8988279.17
+131,2020,1,Foreign Investment (Millones US$),82.95
+132,2020,2.1,Placement Cajas Rurales PEN,177131.43
+133,2020,2.2,Cajas Rurales PEN 2007,120209.82
+134,2020,3.1,Placement Local Banks PEN 2007,7435168.32
+135,2020,3.2,Placement Local Banks PEN,10955860.45
+136,2021,1,Foreign Investment (Millones US$),82.95
+137,2021,2.1,Placement Cajas Rurales PEN,196318.18
+138,2021,2.2,Cajas Rurales PEN 2007,125181.22
+139,2021,3.1,Placement Local Banks PEN 2007,8168737.81
+140,2021,3.2,Placement Local Banks PEN,12810801.02
+141,2022,1,Foreign Investment (Millones US$),82.95
+142,2022,2.1,Placement Cajas Rurales PEN,169235.76
+143,2022,2.2,Cajas Rurales PEN 2007,99495.76
+144,2022,3.1,Placement Local Banks PEN 2007,8142378.71
+145,2022,3.2,Placement Local Banks PEN,13849652.33

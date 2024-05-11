@@ -1,0 +1,208 @@
+﻿index,year,sector_id,sector,trade_balance_usd_millions
+1,2000,1,Trade Balance,($26.17)
+2,2000,2,Exports,$683.47
+3,2000,2.1,Traditional,$246.17
+4,2000,2.2,Non-Traditional,$368.13
+5,2000,3,Imports,$709.64
+6,2000,3.1,Farming,$309.75
+7,2000,3.2,Livestock,$12.04
+8,2000,3.3,Agroindustrial,$300.01
+9,2000,3.4,Forestry,$26.3
+10,2001,1,Trade Balance,($157.85)
+11,2001,2,Exports,$652.08
+12,2001,2.1,Traditional,$203.22
+13,2001,2.2,Non-Traditional,$374.87
+14,2001,3,Imports,$809.93
+15,2001,3.1,Farming,$353.52
+16,2001,3.2,Livestock,$10.03
+17,2001,3.3,Agroindustrial,$343.95
+18,2001,3.4,Forestry,$21.92
+19,2002,1,Trade Balance,($71.76000000000001)
+20,2002,2,Exports,$649.11
+21,2002,2.1,Traditional,$209.18
+22,2002,2.2,Non-Traditional,$439.93
+23,2002,3,Imports,$720.87
+24,2002,3.1,Farming,$341.08
+25,2002,3.2,Livestock,$11.19
+26,2002,3.3,Agroindustrial,$351.72
+27,2002,3.4,Forestry,$16.88
+28,2003,1,Trade Balance,($36.23)
+29,2003,2,Exports,$715.49
+30,2003,2.1,Traditional,$214.45
+31,2003,2.2,Non-Traditional,$501.05
+32,2003,3,Imports,$751.72
+33,2003,3.1,Farming,$372.73
+34,2003,3.2,Livestock,$14.66
+35,2003,3.3,Agroindustrial,$344.54
+36,2003,3.4,Forestry,$19.8
+37,2004,1,Trade Balance,($19.84)
+38,2004,2,Exports,$908.93
+39,2004,2.1,Traditional,$317.29
+40,2004,2.2,Non-Traditional,$591.64
+41,2004,3,Imports,$928.78
+42,2004,3.1,Farming,$437.72
+43,2004,3.2,Livestock,$16.19
+44,2004,3.3,Agroindustrial,$447
+45,2004,3.4,Forestry,$27.86
+46,2005,1,Trade Balance,$35.24
+47,2005,2,Exports,$1008.57
+48,2005,2.1,Traditional,$325.69
+49,2005,2.2,Non-Traditional,$682.88
+50,2005,3,Imports,$973.33
+51,2005,3.1,Farming,$451.15
+52,2005,3.2,Livestock,$17.66
+53,2005,3.3,Agroindustrial,$474.93
+54,2005,3.4,Forestry,$29.59
+55,2006,1,Trade Balance,$333.2
+56,2006,2,Exports,$1433.8
+57,2006,2.1,Traditional,$567.9
+58,2006,2.2,Non-Traditional,$865.9
+59,2006,3,Imports,$1100.6
+60,2006,3.1,Farming,$488.9
+61,2006,3.2,Livestock,$18.2
+62,2006,3.3,Agroindustrial,$558.1
+63,2006,3.4,Forestry,$35.4
+64,2007,1,Trade Balance,$59.7
+65,2007,2,Exports,$1522.05
+66,2007,2.1,Traditional,$454.9
+67,2007,2.2,Non-Traditional,$1067.14
+68,2007,3,Imports,$1462.35
+69,2007,3.1,Farming,$732.39
+70,2007,3.2,Livestock,$23.74
+71,2007,3.3,Agroindustrial,$677.73
+72,2007,3.4,Forestry,$28.48
+73,2008,1,Trade Balance,($89.52)
+74,2008,2,Exports,$1941.63
+75,2008,2.1,Traditional,$676.47
+76,2008,2.2,Non-Traditional,$1265.16
+77,2008,3,Imports,$2031.15
+78,2008,3.1,Farming,$1058.36
+79,2008,3.2,Livestock,$31.41
+80,2008,3.3,Agroindustrial,$890.44
+81,2008,3.4,Forestry,$50.94
+82,2009,1,Trade Balance,$264.19
+83,2009,2,Exports,$1875.21
+84,2009,2.1,Traditional,$629
+85,2009,2.2,Non-Traditional,$1246.22
+86,2009,3,Imports,$1611.02
+87,2009,3.1,Farming,$825.1
+88,2009,3.2,Livestock,$17.85
+89,2009,3.3,Agroindustrial,$723.65
+90,2009,3.4,Forestry,$44.42
+91,2010,1,Trade Balance,$417.04
+92,2010,2,Exports,$3398.4
+93,2010,2.1,Traditional,$973.72
+94,2010,2.2,Non-Traditional,$2424.68
+95,2010,3,Imports,$2981.35
+96,2010,3.1,Farming,$1152.59
+97,2010,3.2,Livestock,$98.18
+98,2010,3.3,Agroindustrial,$1684.55
+99,2010,3.4,Forestry,$46.03
+100,2011,1,Trade Balance,$921.37
+101,2011,2,Exports,$4777.38
+102,2011,2.1,Traditional,$1670.85
+103,2011,2.2,Non-Traditional,$3106.53
+104,2011,3,Imports,$3856
+105,2011,3.1,Farming,$1643.27
+106,2011,3.2,Livestock,$106.36
+107,2011,3.3,Agroindustrial,$2055.9
+108,2011,3.4,Forestry,$50.48
+109,2012,1,Trade Balance,$254.97
+110,2012,2,Exports,$4442.89
+111,2012,2.1,Traditional,$1089.5
+112,2012,2.2,Non-Traditional,$3353.39
+113,2012,3,Imports,$4187.92
+114,2012,3.1,Farming,$1551.28
+115,2012,3.2,Livestock,$100.49
+116,2012,3.3,Agroindustrial,$2469.67
+117,2012,3.4,Forestry,$66.47
+118,2013,1,Trade Balance,$284.65
+119,2013,2,Exports,$4426.5
+120,2013,2.1,Traditional,$778.65
+121,2013,2.2,Non-Traditional,$3647.86
+122,2013,3,Imports,$4141.86
+123,2013,3.1,Farming,$1599.87
+124,2013,3.2,Livestock,$118.84
+125,2013,3.3,Agroindustrial,$2352.02
+126,2013,3.4,Forestry,$71.12
+127,2014,1,Trade Balance,$976.45
+128,2014,2,Exports,$5302
+129,2014,2.1,Traditional,$841
+130,2014,2.2,Non-Traditional,$4461
+131,2014,3,Imports,$4325.55
+132,2014,3.1,Farming,$1631.13
+133,2014,3.2,Livestock,$120.18
+134,2014,3.3,Agroindustrial,$2502.25
+135,2014,3.4,Forestry,$71.99
+136,2015,1,Trade Balance,$1213.8
+137,2015,2,Exports,$5284.69
+138,2015,2.1,Traditional,$688.58
+139,2015,2.2,Non-Traditional,$4596.11
+140,2015,3,Imports,$4070.89
+141,2015,3.1,Farming,$1558.4
+142,2015,3.2,Livestock,$122.85
+143,2015,3.3,Agroindustrial,$2319.03
+144,2015,3.4,Forestry,$70.62
+145,2016,1,Trade Balance,$1748.92
+146,2016,2,Exports,$5789.94
+147,2016,2.1,Traditional,$873.89
+148,2016,2.2,Non-Traditional,$4916.04
+149,2016,3,Imports,$4041.02
+150,2016,3.1,Farming,$1437.93
+151,2016,3.2,Livestock,$158.14
+152,2016,3.3,Agroindustrial,$2386.06
+153,2016,3.4,Forestry,$58.88
+154,2017,1,Trade Balance,$1645.32
+155,2017,2,Exports,$6255.42
+156,2017,2.1,Traditional,$819.39
+157,2017,2.2,Non-Traditional,$5436.03
+158,2017,3,Imports,$4610.1
+159,2017,3.1,Farming,$1684.39
+160,2017,3.2,Livestock,$179.94
+161,2017,3.3,Agroindustrial,$2681.39
+162,2017,3.4,Forestry,$64.38
+163,2018,1,Trade Balance,$2251.87
+164,2018,2,Exports,$7033.42
+165,2018,2.1,Traditional,$760.83
+166,2018,2.2,Non-Traditional,$6272.6
+167,2018,3,Imports,$4781.55
+168,2018,3.1,Farming,$1734.16
+169,2018,3.2,Livestock,$206.19
+170,2018,3.3,Agroindustrial,$2762.37
+171,2018,3.4,Forestry,$78.83
+172,2019,1,Trade Balance,$2752.4
+173,2019,2,Exports,$7462.04
+174,2019,2.1,Traditional,$774.11
+175,2019,2.2,Non-Traditional,$6687.93
+176,2019,3,Imports,$4709.64
+177,2019,3.1,Farming,$1734.14
+178,2019,3.2,Livestock,$208.37
+179,2019,3.3,Agroindustrial,$2684.61
+180,2019,3.4,Forestry,$82.52
+181,2020,1,Trade Balance,$2942.75
+182,2020,2,Exports,$7791.06
+183,2020,2.1,Traditional,$724.03
+184,2020,2.2,Non-Traditional,$7067.03
+185,2020,3,Imports,$4848.32
+186,2020,3.1,Farming,$1887.39
+187,2020,3.2,Livestock,$189.92
+188,2020,3.3,Agroindustrial,$2683.67
+189,2020,3.4,Forestry,$87.34
+190,2021,1,Trade Balance,$3014.28
+191,2021,2,Exports,$9090.43
+192,2021,2.1,Traditional,$843.2
+193,2021,2.2,Non-Traditional,$8247.23
+194,2021,3,Imports,$6076.15
+195,2021,3.1,Farming,$2209.28
+196,2021,3.2,Livestock,$278.28
+197,2021,3.3,Agroindustrial,$3525.16
+198,2021,3.4,Forestry,$63.44
+199,2022,1,Trade Balance,$3447.25
+200,2022,2,Exports,$10249.65
+201,2022,2.1,Traditional,$1340.26
+202,2022,2.2,Non-Traditional,$8909.39
+203,2022,3,Imports,$6802.4
+204,2022,3.1,Farming,$2560.17
+205,2022,3.2,Livestock,$267.79
+206,2022,3.3,Agroindustrial,$3920.25
+207,2022,3.4,Forestry,$54.19

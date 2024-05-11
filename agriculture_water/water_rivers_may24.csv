@@ -1,0 +1,318 @@
+﻿index,basin_id,basin,river_id,river,total_length,length_peru,source_place_id,source_place,source_altitude,mouth_place_id,mouth_place,mouth-altitude
+62,0.4,Amazonas,62,Río Achuime,46.12,46.12,1,Amazonas,1060,1,Amazonas,368
+97,0.4,Amazonas,97,Río Cenepa,201.7,201.7,1,Amazonas,2328,1,Amazonas,237
+126,0.4,Amazonas,126,Río Comaina,78.47,78.47,1,Amazonas,2354,1,Amazonas,364
+127,0.4,Amazonas,127,Río Comaina,173.24,173.24,1,Amazonas,1080,1,Amazonas,214
+158,0.4,Amazonas,158,Río Huayabamba,218.41,218.41,1,Amazonas,2805,22,San Martín,281
+285,0.4,Amazonas,285,Río Tunduza,41.3,41.3,1,Amazonas,1575,1,Amazonas,547
+297,0.4,Amazonas,297,Río Utcubamba,247.83,247.83,1,Amazonas,3449,1,Amazonas,362
+215,0.4,Amazonas,215,Río Pachitea,587.24,587.24,10,Huánuco,4297,25,Ucayali,148
+267,0.4,Amazonas,267,Río Sungaroyacu,128.87,128.87,10,Huánuco,1500,10,Huánuco,187
+2,0.5,Pacific,2,Quebrada Ayoque,53.58,53.58,11,Ica,4161,11,Ica,401
+15,0.5,Pacific,15,Quebrada Gramonal,93.63,93.63,11,Ica,3031,11,Ica,58
+54,0.5,Pacific,54,Quebrada Topará,62.5,62.5,11,Ica,4296,11,Ica,5
+261,0.5,Pacific,261,Río Seco,95.06,95.06,11,Ica,2923,11,Ica,7
+45,0.4,Amazonas,45,Quebrada Poyeni,62.74,62.74,12,Junín,2604,12,Junín,263
+74,0.4,Amazonas,74,Río Anapatí,104.22,104.22,12,Junín,3520,12,Junín,412
+128,0.4,Amazonas,128,Río Conas,99,99,12,Junín,4683,12,Junín,"3,189"
+140,0.4,Amazonas,140,Río Cutivireni,108.72,108.72,12,Junín,3728,12,Junín,401
+193,0.4,Amazonas,193,Río Mantaro,768.84,768.84,12,Junín,4334,12,Junín,467
+227,0.4,Amazonas,227,Río Perené,282.81,282.81,12,Junín,4499,12,Junín,305
+104,0.5,Pacific,104,Río Chao,55.02,55.02,13,La Libertad,3632,13,La Libertad,27
+106,0.5,Pacific,106,Río Chicama,168.63,168.63,13,La Libertad,4148,13,La Libertad,2
+150,0.5,Pacific,150,Río Huamansaña,76.11,76.11,13,La Libertad,4228,13,La Libertad,9
+200,0.5,Pacific,200,Río Moche,109.87,109.87,13,La Libertad,4109,13,La Libertad,6
+287,0.5,Pacific,287,Río Tutumo,53.23,53.23,13,La Libertad,4073,13,La Libertad,245
+304,0.5,Pacific,304,Río Virú,95.17,95.17,13,La Libertad,4027,13,La Libertad,7
+203,0.5,Pacific,203,Río Motupe,132.85,132.85,14,Lambayeque,2531,14,Lambayeque,4
+204,0.5,Pacific,204,Río Motupe,61.81,61.81,14,Lambayeque,3755,14,Lambayeque,78
+10,0.5,Pacific,10,Quebrada Chilca,58.47,58.46,15,Lima,3640,15,Lima,0
+40,0.5,Pacific,40,Quebrada Orcon,51.17,51.17,15,Lima,4509,15,Lima,277
+58,0.5,Pacific,58,Rio Huaura,161.6,161.6,15,Lima,4745,15,Lima,5
+84,0.5,Pacific,84,Río Cacra,63.18,63.18,15,Lima,4685,15,Lima,"1,086"
+95,0.5,Pacific,95,Río Cañete,230.39,230.39,15,Lima,4863,15,Lima,3
+102,0.5,Pacific,102,Río Chancay,116.36,116.36,15,Lima,4748,15,Lima,2
+105,0.5,Pacific,105,Río Checras,52.63,52.63,15,Lima,4775,15,Lima,"2,125"
+112,0.5,Pacific,112,Río Chillón,131.14,131.14,15,Lima,4843,7,Callao,5
+144,0.5,Pacific,144,Río Grande,72.31,72.31,15,Lima,4367,15,Lima,0
+151,0.5,Pacific,151,Río Huanangue,53.47,53.47,15,Lima,4595,15,Lima,627
+187,0.5,Pacific,187,Río Lurín,108.5,108.5,15,Lima,4799,15,Lima,0
+190,0.5,Pacific,190,Río Mala,128.96,128.96,15,Lima,4970,15,Lima,3
+246,0.5,Pacific,246,Río Rapay,55.74,55.74,15,Lima,4642,15,Lima,"1,387"
+248,0.5,Pacific,248,Río Rímac,144.78,144.78,15,Lima,4870,7,Callao,3
+256,0.5,Pacific,256,Río Santa Eulalia,64.78,64.78,15,Lima,4665,15,Lima,930
+268,0.5,Pacific,268,Río Supe,93.24,93.24,15,Lima,4698,15,Lima,7
+39,0.4,Amazonas,39,Quebrada Naranjal,39.26,39.26,16,Loreto,132,16,Loreto,117
+70,0.4,Amazonas,70,Río Algodoncillo,749.82,749.82,16,Loreto,188,16,Loreto,89
+73,0.4,Amazonas,73,Río Ampiyacu,196.78,196.78,16,Loreto,140,16,Loreto,73
+76,0.4,Amazonas,76,Río Apayacu,194.06,194.06,16,Loreto,135,16,Loreto,73
+77,0.4,Amazonas,77,Río Atacuari,239.08,238.99,16,Loreto,121,16,Loreto,66
+91,0.4,Amazonas,91,Río Carhuapanas,263.02,263.02,16,Loreto,1210,16,Loreto,133
+139,0.4,Amazonas,139,Río Cushabatay,247.47,247.47,16,Loreto,1183,16,Loreto,128
+148,0.4,Amazonas,148,Río Gálvez,257.71,257.71,16,Loreto,161,16,Loreto,98
+170,0.4,Amazonas,170,Río Itaya,203.98,203.98,16,Loreto,129,16,Loreto,87
+192,0.4,Amazonas,192,Río Manití,229.6,229.6,16,Loreto,149,16,Loreto,81
+197,0.4,Amazonas,197,Río Mazán,509.11,509.11,16,Loreto,196,16,Loreto,98
+206,0.4,Amazonas,206,Río Nanay,544.63,544.63,16,Loreto,204,16,Loreto,95
+209,0.4,Amazonas,209,Río Nucuray,281.74,281.74,16,Loreto,180,16,Loreto,109
+212,0.4,Amazonas,212,Río Orosa,172.2,172.2,16,Loreto,116,16,Loreto,94
+223,0.4,Amazonas,223,Río Paranapura,172.18,172.18,16,Loreto,1525,16,Loreto,127
+225,0.4,Amazonas,225,Río Patayacu,337.44,337.44,16,Loreto,167,16,Loreto,103
+235,0.4,Amazonas,235,Río Potro,231.71,231.71,16,Loreto,1503,16,Loreto,142
+252,0.4,Amazonas,252,Río Samiria,405.14,405.14,16,Loreto,155,16,Loreto,117
+273,0.4,Amazonas,273,Río Tahuayo,134.01,134.01,16,Loreto,170,16,Loreto,88
+278,0.4,Amazonas,278,Río Tapiche,666.74,666.74,16,Loreto,297,16,Loreto,94
+292,0.4,Amazonas,292,Río Ungumayo,138.97,138.97,16,Loreto,163,16,Loreto,120
+294,0.4,Amazonas,294,Río Urituyacu,273.77,273.77,16,Loreto,190,16,Loreto,109
+296,0.4,Amazonas,296,Río Ushpayacu,261.4,261.4,16,Loreto,210,16,Loreto,137
+307,0.4,Amazonas,307,Río Yaguas,474.92,474.08,16,Loreto,132,16,Loreto,66
+310,0.4,Amazonas,310,Río Yavarí,1309.44,1309.44,16,Loreto,565,16,Loreto,61
+311,0.4,Amazonas,311,Río Yavarí Mirín,327.17,327.17,16,Loreto,151,16,Loreto,85
+60,0.4,Amazonas,60,Río Abismo,52.34,14.68,17,Madre de Dios,412,Br,Brasil,257
+103,0.4,Amazonas,103,Río Chandless,328.9,104.65,17,Madre de Dios,380,Br,Brasil,169
+141,0.4,Amazonas,141,Río De las Piedras,784.41,784.41,17,Madre de Dios,614,17,Madre de Dios,177
+179,0.4,Amazonas,179,Río Lanza,116.22,38.17,17,Madre de Dios,351,Bo,Bolivia,227
+189,0.4,Amazonas,189,Río Madre de Dios,1312.2,833.29,17,Madre de Dios,518,Bo,Bolivia,124
+194,0.4,Amazonas,194,Río Manuripe,495.68,263.43,17,Madre de Dios,471,Bo,Bolivia,175
+205,0.4,Amazonas,205,Río Muymanu,209.54,182.37,17,Madre de Dios,439,Bo,Bolivia,241
+257,0.4,Amazonas,257,Río Santa Rosa,139.77,139.77,17,Madre de Dios,336,17,Madre de Dios,196
+271,0.4,Amazonas,271,Río Tahuamanu,900.07,456.86,17,Madre de Dios,507,Bo,Bolivia,122
+306,0.4,Amazonas,306,Río Yaco,544.96,113.48,17,Madre de Dios,432,Br,Brasil,126
+16,0.5,Pacific,16,Quebrada Guaneros,90.2,90.2,18,Moquegua,2930,18,Moquegua,255
+19,0.5,Pacific,19,Quebrada Honda,98.07,98.07,18,Moquegua,3217,4,Arequipa,7
+24,0.5,Pacific,24,Quebrada Huayrondo,77.67,77.67,18,Moquegua,3483,4,Arequipa,257
+50,0.5,Pacific,50,Quebrada Seca,78.86,78.86,18,Moquegua,3047,23,Tacna,293
+129,0.5,Pacific,129,Río Coralaque,114.31,114.31,18,Moquegua,4875,18,Moquegua,"2,725"
+165,0.5,Pacific,165,Río Ilo,146.27,146.27,18,Moquegua,4886,18,Moquegua,10
+280,0.5,Pacific,280,Río Torata,67.77,67.77,18,Moquegua,5093,18,Moquegua,"1,338"
+284,0.5,Pacific,284,Río Tumilaca,65.59,65.59,18,Moquegua,5079,18,Moquegua,"1,290"
+149,0.4,Amazonas,149,Río Huallaga,1168.97,1168.97,19,Pasco,4219,16,Loreto,111
+152,0.4,Amazonas,152,Río Huancabamba,100.93,100.93,19,Pasco,4107,19,Pasco,716
+217,0.4,Amazonas,217,Río Palcazú,160,160,19,Pasco,2334,19,Pasco,253
+230,0.4,Amazonas,230,Río Pichis,307.94,307.94,19,Pasco,1789,19,Pasco,217
+28,0.5,Pacific,28,Quebrada Julquillas,61.52,61.52,2,Áncash,4441,15,Lima,83
+32,0.5,Pacific,32,Quebrada Lacramarca,68.18,68.18,2,Áncash,3987,2,Áncash,6
+92,0.5,Pacific,92,Río Casma,103.08,103.08,2,Áncash,4496,2,Áncash,5
+134,0.5,Pacific,134,Río Culebras,68.09,68.09,2,Áncash,4471,2,Áncash,6
+143,0.5,Pacific,143,Río Fortaleza,114.38,114.38,2,Áncash,4662,15,Lima,0
+155,0.5,Pacific,155,Río Huarmey,99.99,99.99,2,Áncash,4454,2,Áncash,5
+185,0.5,Pacific,185,Río Loco,50.55,50.55,2,Áncash,4536,2,Áncash,284
+191,0.5,Pacific,191,Río Malvas,52.53,52.53,2,Áncash,4497,2,Áncash,472
+226,0.5,Pacific,226,Río Pativilca,178.44,178.44,2,Áncash,4889,15,Lima,8
+251,0.5,Pacific,251,Río Samanco,81.5,81.5,2,Áncash,4724,2,Áncash,10
+254,0.5,Pacific,254,Río Santa,334.58,334.58,2,Áncash,4469,2,Áncash,6
+260,0.5,Pacific,260,Río Sechín,60.99,60.99,2,Áncash,4463,2,Áncash,63
+270,0.5,Pacific,270,Río Tablachaca,105.43,105.43,2,Áncash,4155,2,Áncash,529
+13,0.5,Pacific,13,Quebrada Fernández,67.03,67.03,20,Piura,1236,20,Piura,1
+17,0.5,Pacific,17,Quebrada Honda,51.15,51.15,20,Piura,302,20,Piura,10
+30,0.5,Pacific,30,Quebrada La Solana,72.98,72.98,20,Piura,875,20,Piura,114
+41,0.5,Pacific,41,Quebrada Pariñas,94.81,94.81,20,Piura,1208,20,Piura,0
+42,0.5,Pacific,42,Quebrada Pañala Chico,182.34,182.34,20,Piura,2904,20,Piura,3
+43,0.5,Pacific,43,Quebrada Pañala Grande,123.53,123.53,20,Piura,2520,14,Lambayeque,0
+47,0.5,Pacific,47,Quebrada Samán,59.05,59.05,20,Piura,565,20,Piura,40
+48,0.5,Pacific,48,Quebrada San Francisco,50.69,50.69,20,Piura,461,20,Piura,62
+80,0.5,Pacific,80,Río Bigote,53.44,53.44,20,Piura,3111,20,Piura,145
+100,0.4,Amazonas,100,Río Chamaya,229.78,229.78,20,Piura,3268,1,Amazonas,426
+113,0.4,Amazonas,113,Río Chinchipe,159.6,155.79,20,Piura,3420,1,Amazonas,353
+115,0.5,Pacific,115,Río Chipillico,132.44,132.44,20,Piura,3347,20,Piura,73
+234,0.5,Pacific,234,Río Piura,332.42,332.42,20,Piura,2333,20,Piura,2
+244,0.5,Pacific,244,Río Quiroz,176.18,176.18,20,Piura,3294,20,Piura,138
+5,0.6,Titicaca,5,Quebrada Calcata,19.32,19.32,21,Puno,4924,21,Puno,"4,469"
+27,0.6,Titicaca,27,Quebrada Jaro Occo,17.24,17.24,21,Puno,4301,21,Puno,"3,904"
+51,0.6,Titicaca,51,Quebrada Tijratoma,11.19,11.19,21,Puno,4671,21,Puno,"4,154"
+53,0.6,Titicaca,53,Quebrada Tolamoco,13.55,13.55,21,Puno,5086,21,Puno,"4,473"
+63,0.6,Titicaca,63,Río Acoñusa,86.77,86.77,21,Puno,5146,21,Puno,"3,909"
+66,0.6,Titicaca,66,Río Aguas Calientes,86.63,86.63,21,Puno,4611,21,Puno,"3,849"
+68,0.6,Titicaca,68,Río Ajoyani,35.16,35.16,21,Puno,4849,21,Puno,"4,080"
+75,0.6,Titicaca,75,Río Antauta,38.8,38.8,21,Puno,4769,21,Puno,"4,074"
+82,0.6,Titicaca,82,Río Cachacara,32.09,32.09,21,Puno,4808,21,Puno,"3,961"
+83,0.6,Titicaca,83,Río Cachuuma,11.19,11.19,21,Puno,4699,21,Puno,"4,052"
+85,0.6,Titicaca,85,Río Calasaya,17.8,17.8,21,Puno,4330,21,Puno,"3,968"
+86,0.6,Titicaca,86,Río Callaccame,112.91,112.91,21,Puno,4330,21,Puno,"3,824"
+88,0.6,Titicaca,88,Río Cangalle,21.1,21.1,21,Puno,4550,21,Puno,"3,873"
+93,0.6,Titicaca,93,Río Caturay,54.7,54.7,21,Puno,4738,21,Puno,"3,885"
+94,0.6,Titicaca,94,Río Caylloma,39.59,39.59,21,Puno,4835,21,Puno,"4,345"
+98,0.6,Titicaca,98,Río Cerrillos,77.04,77.04,21,Puno,4816,21,Puno,"4,061"
+110,0.6,Titicaca,110,Río Chila,31.34,31.34,21,Puno,4980,21,Puno,"4,190"
+111,0.6,Titicaca,111,Río Chilisaya,40.25,40.25,21,Puno,4874,21,Puno,"3,971"
+114,0.6,Titicaca,114,Río Chingune,14.81,14.81,21,Puno,4890,21,Puno,"4,191"
+117,0.6,Titicaca,117,Río Chueña Huata Jahuira,35.86,35.86,21,Puno,4696,21,Puno,"4,327"
+123,0.6,Titicaca,123,Río Coata,177.72,177.72,21,Puno,4661,21,Puno,"3,819"
+132,0.6,Titicaca,132,Río Cotaña,33.25,33.25,21,Puno,4647,21,Puno,"3,950"
+135,0.6,Titicaca,135,Río Cultajahuira,21.28,21.28,21,Puno,4799,21,Puno,"3,987"
+146,0.6,Titicaca,146,Río Grande,146.51,146.51,21,Puno,4871,21,Puno,"3,875"
+147,0.6,Titicaca,147,Río Grande,51.81,51.81,21,Puno,4796,21,Puno,"3,889"
+153,0.6,Titicaca,153,Río Huancamaya,46.84,46.84,21,Puno,5011,21,Puno,"3,953"
+154,0.6,Titicaca,154,Río Huancané,136.27,136.27,21,Puno,4752,21,Puno,"3,820"
+162,0.5,Pacific,162,Río Ichuña,64.87,64.87,21,Puno,4917,18,Moquegua,"3,566"
+164,0.6,Titicaca,164,Río Ilave,208.88,208.88,21,Puno,5002,21,Puno,"3,820"
+166,0.6,Titicaca,166,Río Ilpa,99.38,99.38,21,Puno,4655,21,Puno,"3,815"
+167,0.4,Amazonas,167,Río Inambari,435.53,435.53,21,Puno,4965,17,Madre de Dios,198
+169,0.6,Titicaca,169,Río Irpa,18.23,18.23,21,Puno,4283,21,Puno,"3,965"
+171,0.6,Titicaca,171,Río Jacha Mauri,106.03,62.04,21,Puno,4643,Bo,Bolivia,"3,821"
+172,0.6,Titicaca,172,Río Japo,18.7,18.7,21,Puno,4918,21,Puno,"4,047"
+175,0.6,Titicaca,175,Río Jollojahuira,22.34,22.34,21,Puno,4928,21,Puno,"3,978"
+177,0.6,Titicaca,177,Río Lacatuyoc,18.11,18.11,21,Puno,4594,21,Puno,"3,962"
+178,0.6,Titicaca,178,Río Lampa,96.59,96.59,21,Puno,5056,21,Puno,"3,830"
+180,0.6,Titicaca,180,Río Lizani,25.16,25.16,21,Puno,4923,21,Puno,"4,004"
+181,0.6,Titicaca,181,Río Llache,39.01,39.01,21,Puno,4621,21,Puno,"3,830"
+182,0.6,Titicaca,182,Río Lloquecolla,68.97,68.97,21,Puno,4779,21,Puno,"3,858"
+183,0.6,Titicaca,183,Río Llusta,35.45,35.45,21,Puno,4906,21,Puno,"4,023"
+195,0.6,Titicaca,195,Río Maure,132.79,101.08,21,Puno,4835,Bo,Bolivia,"3,961"
+210,0.6,Titicaca,210,Río Ocohuichinca,11.57,11.57,21,Puno,4611,21,Puno,"4,487"
+216,0.6,Titicaca,216,Río Palcamayo,54.4,54.4,21,Puno,4846,21,Puno,"3,908"
+218,0.6,Titicaca,218,Río Palcoma,10.39,10.39,21,Puno,4610,21,Puno,"3,967"
+229,0.6,Titicaca,229,Río Pichacani,57.81,57.81,21,Puno,4538,21,Puno,"3,909"
+233,0.6,Titicaca,233,Río Pistune,51.13,51.13,21,Puno,4739,21,Puno,"3,867"
+237,0.6,Titicaca,237,Río Pucará,233.91,233.91,21,Puno,4899,21,Puno,"3,831"
+240,0.6,Titicaca,240,Río Queñamichi,12.07,12.07,21,Puno,4712,21,Puno,"3,967"
+242,0.6,Titicaca,242,Río Quilcamayo,59.1,59.1,21,Puno,4486,21,Puno,"3,853"
+243,0.6,Titicaca,243,Río Quillliri,22.02,22.02,21,Puno,4996,21,Puno,"3,983"
+245,0.6,Titicaca,245,Río Ramis-Titicaca-Desaguadero,1345.24,456.99,21,Puno,4728,Bo,Bolivia,"4,545"
+249,0.6,Titicaca,249,Río Sacuyo,68.37,68.37,21,Puno,4664,21,Puno,"3,873"
+265,0.6,Titicaca,265,Río Suches,179.69,113.29,21,Puno,4836,Bo,Bolivia,"3,823"
+269,0.6,Titicaca,269,Río Taaque,10.26,10.26,21,Puno,4802,21,Puno,"4,001"
+276,0.5,Pacific,276,Río Tambo,297.34,297.34,21,Puno,4555,4,Arequipa,9
+277,0.4,Amazonas,277,Río Tambopata,337.87,337.87,21,Puno,1190,17,Madre de Dios,177
+282,0.6,Titicaca,282,Río Tulajahuira,15.03,15.03,21,Puno,4143,21,Puno,"3,955"
+286,0.6,Titicaca,286,Río Tupala,22.74,22.74,21,Puno,4451,21,Puno,"4,048"
+288,0.6,Titicaca,288,Río Tuyto,90.9,90.9,21,Puno,4311,21,Puno,"3,831"
+291,0.6,Titicaca,291,Río Uncallane,114.61,114.61,21,Puno,4847,21,Puno,"3,869"
+299,0.6,Titicaca,299,Río Ventilla,55.64,55.64,21,Puno,4584,21,Puno,"3,876"
+300,0.6,Titicaca,300,Río Verde,37.95,37.95,21,Puno,5032,21,Puno,"4,204"
+303,0.6,Titicaca,303,Río Viluta,9.79,9.79,21,Puno,4622,21,Puno,"4,205"
+79,0.4,Amazonas,79,Río Biabo,373.96,373.96,22,San Martín,1361,22,San Martín,229
+196,0.4,Amazonas,196,Río Mayo,362.79,362.79,22,San Martín,1673,22,San Martín,191
+4,0.5,Pacific,4,Quebrada Botijas,54.63,54.63,23,Tacna,1519,23,Tacna,53
+7,0.5,Pacific,7,Quebrada Cauñani,65.81,65.81,23,Tacna,4310,23,Tacna,238
+18,0.5,Pacific,18,Quebrada Honda,82.41,82.41,23,Tacna,2875,23,Tacna,27
+20,0.5,Pacific,20,Quebrada Honda,58.62,58.62,23,Tacna,1465,23,Tacna,124
+21,0.5,Pacific,21,Quebrada Hospicio,79.87,79.87,23,Tacna,4012,23,Tacna,11
+34,0.5,Pacific,34,Quebrada Las Cajas,66.46,66.46,23,Tacna,2073,23,Tacna,127
+36,0.5,Pacific,36,Quebrada Los Molles,99.71,99.71,23,Tacna,4175,23,Tacna,124
+55,0.5,Pacific,55,Quebrada Viñani,75.67,75.67,23,Tacna,4308,23,Tacna,115
+57,0.5,Pacific,57,Quebrada de Escritos,63.92,63.92,23,Tacna,3664,23,Tacna,28
+89,0.5,Pacific,89,Río Caplina,115.31,115.31,23,Tacna,5124,23,Tacna,15
+96,0.6,Titicaca,96,Río Caño,48.82,26.81,23,Tacna,4574,Bo,Bolivia,"3,988"
+122,0.5,Pacific,122,Río Cinto,75.12,75.12,23,Tacna,4934,23,Tacna,567
+163,0.5,Pacific,163,Río Ilabaya,69.61,69.61,23,Tacna,5101,23,Tacna,"1,088"
+173,0.5,Pacific,173,Río Jaruma,50.4,50.4,23,Tacna,5099,23,Tacna,"2,760"
+186,0.5,Pacific,186,Río Locumba,196.31,196.31,23,Tacna,4814,23,Tacna,14
+250,0.5,Pacific,250,Río Sama,171.25,171.25,23,Tacna,5105,23,Tacna,6
+289,0.6,Titicaca,289,Río Uchusuma,66.15,41.82,23,Tacna,5287,Bo,Bolivia,"3,994"
+290,0.5,Pacific,290,Río Uchusuma,92.65,92.65,23,Tacna,4299,23,Tacna,16
+3,0.5,Pacific,3,Quebrada Bocapán,77.9,77.9,24,Tumbes,1405,24,Tumbes,0
+49,0.5,Pacific,49,Quebrada Seca,67.35,67.35,24,Tumbes,1123,24,Tumbes,3
+14,0.4,Amazonas,14,Quebrada Genepanshea,184.84,184.84,25,Ucayali,365,25,Ucayali,162
+67,0.4,Amazonas,67,Río Aguaytia,371.84,371.84,25,Ucayali,1176,16,Loreto,137
+72,0.4,Amazonas,72,Río Amonea,188.94,116.63,25,Ucayali,352,Br,Brasil,215
+125,0.4,Amazonas,125,Río Cohengua,183.9,183.9,25,Ucayali,436,25,Ucayali,191
+136,0.4,Amazonas,136,Río Curanja,316.19,316.19,25,Ucayali,485,25,Ucayali,237
+138,0.4,Amazonas,138,Río Curiuja,157.71,157.71,25,Ucayali,481,25,Ucayali,325
+142,0.4,Amazonas,142,Río Embira,849.59,152.61,25,Ucayali,465,Br,Brasil,113
+168,0.4,Amazonas,168,Río Inuya,251.13,251.13,25,Ucayali,467,25,Ucayali,219
+199,0.4,Amazonas,199,Río Mishahua,217.48,217.48,25,Ucayali,629,25,Ucayali,288
+238,0.4,Amazonas,238,Río Purús,3361.02,597.22,25,Ucayali,498,Br,Brasil,11
+272,0.4,Amazonas,272,Río Tahuanía,187.96,187.96,25,Ucayali,392,25,Ucayali,179
+274,0.4,Amazonas,274,Río Tamaya,475.13,475.13,25,Ucayali,365,25,Ucayali,143
+293,0.4,Amazonas,293,Río Unine,135.98,135.98,25,Ucayali,1644,25,Ucayali,209
+314,0.4,Amazonas,314,Río Yuruá,2682.29,250.76,25,Ucayali,377,Br,Brasil,36
+107,0.4,Amazonas,107,Río Chicha (Soras),112.5,112.5,3,Apurímac,4466,5,Ayacucho,"2,140"
+214,0.4,Amazonas,214,Río Pachachaca,218.68,218.68,3,Apurímac,4524,8,Cusco,"1,057"
+302,0.4,Amazonas,302,Río Vilcabamba,152.43,152.43,3,Apurímac,4896,3,Apurímac,"2,216"
+6,0.5,Pacific,6,Quebrada Carachosa,52.71,52.71,4,Arequipa,1982,4,Arequipa,108
+9,0.5,Pacific,9,Quebrada Chalhuane,60.95,60.95,4,Arequipa,4774,4,Arequipa,849
+11,0.5,Pacific,11,Quebrada Choruna,67.57,67.57,4,Arequipa,4779,4,Arequipa,466
+22,0.5,Pacific,22,Quebrada Hospicio,55.08,55.08,4,Arequipa,1865,4,Arequipa,801
+23,0.5,Pacific,23,Quebrada Huario o Huacocane,60.71,60.71,4,Arequipa,4854,4,Arequipa,699
+26,0.5,Pacific,26,Quebrada Jahuay,115.32,115.32,4,Arequipa,4564,4,Arequipa,2
+29,0.5,Pacific,29,Quebrada La Chira,53.91,53.91,4,Arequipa,2253,4,Arequipa,0
+31,0.5,Pacific,31,Quebrada La Yesera,51.38,51.38,4,Arequipa,2055,4,Arequipa,538
+35,0.5,Pacific,35,Quebrada Linga,61.74,61.74,4,Arequipa,3106,4,Arequipa,234
+37,0.5,Pacific,37,Quebrada Molles,60.2,60.2,4,Arequipa,3066,4,Arequipa,871
+38,0.5,Pacific,38,Quebrada Molles,97.5,97.5,4,Arequipa,4237,4,Arequipa,181
+44,0.5,Pacific,44,Quebrada Pescadores,149.82,149.82,4,Arequipa,4550,4,Arequipa,0
+46,0.5,Pacific,46,Quebrada Puluviñas,79.46,79.46,4,Arequipa,3707,4,Arequipa,138
+56,0.5,Pacific,56,Quebrada Yerbabuena,57.05,57.05,4,Arequipa,2335,4,Arequipa,0
+59,0.5,Pacific,59,Rio Pallancata,72.83,72.83,4,Arequipa,4966,5,Ayacucho,"2,979"
+71,0.4,Amazonas,71,Río Amazonas-Ucayali,6062.41,3172.01,4,Arequipa,5013,Br,Brasil,0
+78,0.5,Pacific,78,Río Atico,86.59,86.59,4,Arequipa,3272,4,Arequipa,2
+81,0.5,Pacific,81,Río Blanco,81.25,81.25,4,Arequipa,4726,4,Arequipa,"3,744"
+87,0.5,Pacific,87,Río Camaná,412.57,412.57,4,Arequipa,4755,4,Arequipa,4
+99,0.5,Pacific,99,Río Challahuire,127,127,4,Arequipa,5017,4,Arequipa,"1,337"
+108,0.5,Pacific,108,Río Chichas,90.11,90.11,4,Arequipa,4948,4,Arequipa,890
+121,0.5,Pacific,121,Río Cháparra,92.31,92.31,4,Arequipa,3961,4,Arequipa,0
+131,0.5,Pacific,131,Río Cotahuasi,158.28,158.28,4,Arequipa,4947,4,Arequipa,910
+184,0.5,Pacific,184,Río Lluta,54.99,54.99,4,Arequipa,5051,4,Arequipa,"1,973"
+201,0.5,Pacific,201,Río Molloco,88.72,88.72,4,Arequipa,4797,4,Arequipa,"2,092"
+220,0.5,Pacific,220,Río Pampamarca,56.28,56.28,4,Arequipa,4908,4,Arequipa,"2,349"
+241,0.5,Pacific,241,Río Quilca - Vítor - Chili,275.38,275.38,4,Arequipa,4874,4,Arequipa,3
+262,0.5,Pacific,262,Río Sihuas,139.07,139.07,4,Arequipa,4796,4,Arequipa,148
+266,0.5,Pacific,266,Río Sumbay,84.94,84.94,4,Arequipa,4780,4,Arequipa,"4,267"
+298,0.4,Amazonas,298,Río Velille,192.74,192.74,4,Arequipa,4938,8,Cusco,"2,568"
+308,0.5,Pacific,308,Río Yarabamba,55.94,55.94,4,Arequipa,4520,4,Arequipa,"2,148"
+313,0.5,Pacific,313,Río Yura,87.89,87.89,4,Arequipa,4763,4,Arequipa,"1,453"
+317,0.5,Pacific,317,Río de Sumana,59.13,59.13,4,Arequipa,4762,4,Arequipa,"2,998"
+1,0.5,Pacific,1,Quebrada Acaville,61.65,61.65,5,Ayacucho,4059,4,Arequipa,304
+12,0.5,Pacific,12,Quebrada De Chala,76.03,76.03,5,Ayacucho,3971,4,Arequipa,0
+25,0.5,Pacific,25,Quebrada Ingenio,102.72,102.72,5,Ayacucho,4254,11,Ica,209
+33,0.5,Pacific,33,Quebrada Languire,62.74,62.74,5,Ayacucho,3751,5,Ayacucho,506
+61,0.5,Pacific,61,Río Acarí,211.6,211.6,5,Ayacucho,4394,4,Arequipa,3
+90,0.4,Amazonas,90,Río Caracha,421.97,421.97,5,Ayacucho,4510,8,Cusco,989
+118,0.4,Amazonas,118,Río Chuimacota,51.19,51.19,5,Ayacucho,4203,8,Cusco,504
+119,0.4,Amazonas,119,Río Chunchubamba,45.41,45.41,5,Ayacucho,3853,5,Ayacucho,646
+156,0.4,Amazonas,156,Río Huarpa,140.07,140.07,5,Ayacucho,4709,9,Huancavelica,"2,163"
+198,0.5,Pacific,198,Río Mirmaca,81.55,81.55,5,Ayacucho,4291,5,Ayacucho,"1,762"
+208,0.5,Pacific,208,Río Nasca,146.07,146.07,5,Ayacucho,4024,11,Ica,145
+211,0.5,Pacific,211,Río Ocoña,282.67,282.67,5,Ayacucho,4725,4,Arequipa,25
+213,0.5,Pacific,213,Río Oyolo,69.6,69.6,5,Ayacucho,4728,5,Ayacucho,"1,576"
+222,0.5,Pacific,222,Río Paralmayoc,58.54,58.54,5,Ayacucho,4100,5,Ayacucho,894
+231,0.4,Amazonas,231,Río Piene,64.91,64.91,5,Ayacucho,4190,5,Ayacucho,550
+263,0.4,Amazonas,263,Río Sondondo,121.41,121.41,5,Ayacucho,4493,5,Ayacucho,"2,288"
+281,0.4,Amazonas,281,Río Torobamba,59.47,59.47,5,Ayacucho,4215,3,Apurímac,"1,577"
+305,0.5,Pacific,305,Río Vizcas,79.9,79.9,5,Ayacucho,4138,11,Ica,265
+309,0.5,Pacific,309,Río Yauca,183.07,183.07,5,Ayacucho,4559,4,Arequipa,3
+101,0.5,Pacific,101,Río Chamán,86.21,86.21,6,Cajamarca,2705,13,La Libertad,5
+120,0.5,Pacific,120,Río Chuquillanqui,51.9,51.9,6,Cajamarca,3991,13,La Libertad,698
+133,0.4,Amazonas,133,Río Crisnejas,151.98,151.98,6,Cajamarca,3966,6,Cajamarca,"1,055"
+174,0.5,Pacific,174,Río Jequetepeque,165.08,165.08,6,Cajamarca,3912,13,La Libertad,4
+176,0.5,Pacific,176,Río La Leche,95.11,95.11,6,Cajamarca,3517,14,Lambayeque,50
+247,0.5,Pacific,247,Río Reque,203.93,203.93,6,Cajamarca,3866,14,Lambayeque,4
+253,0.5,Pacific,253,Río San Miguel,73.74,73.74,6,Cajamarca,3828,6,Cajamarca,710
+316,0.5,Pacific,316,Río Zaña,124.66,124.66,6,Cajamarca,3582,14,Lambayeque,1
+219,0.4,Amazonas,219,Río Pampaconas,49.15,49.15,8,Cusco,4521,8,Cusco,785
+228,0.4,Amazonas,228,Río Picha,144.89,144.89,8,Cusco,3751,8,Cusco,325
+259,0.4,Amazonas,259,Río Santo Tomás,158,158,8,Cusco,4950,3,Apurímac,"2,280"
+295,0.4,Amazonas,295,Río Urubamba,914.63,914.63,8,Cusco,5100,25,Ucayali,207
+312,0.4,Amazonas,312,Río Yavero,332.3,332.3,8,Cusco,4982,8,Cusco,482
+52,0.5,Pacific,52,Quebrada Tingue,85.19,85.19,9,Huancavelica,3891,11,Ica,301
+109,0.5,Pacific,109,Río Chico,143.24,143.24,9,Huancavelica,4748,11,Ica,6
+124,0.5,Pacific,124,Río Cocharcas,72.02,72.02,9,Huancavelica,3937,11,Ica,378
+145,0.5,Pacific,145,Río Grande,183.84,183.84,9,Huancavelica,4432,11,Ica,5
+159,0.5,Pacific,159,Río Huaytara,71.62,71.62,9,Huancavelica,4720,11,Ica,"1,263"
+160,0.5,Pacific,160,Río Ica,231.3,231.3,9,Huancavelica,4389,11,Ica,4
+161,0.4,Amazonas,161,Río Ichu,101.31,101.31,9,Huancavelica,4850,9,Huancavelica,"2,828"
+221,0.4,Amazonas,221,Río Pampas,143.94,143.94,9,Huancavelica,4900,5,Ayacucho,"2,620"
+232,0.5,Pacific,232,Río Pisco,185.27,185.27,9,Huancavelica,4703,11,Ica,7
+255,0.5,Pacific,255,Río Santa Cruz,95.29,95.29,9,Huancavelica,3945,11,Ica,161
+275,0.5,Pacific,275,Río Tambo,57.24,57.24,9,Huancavelica,4433,9,Huancavelica,"1,723"
+301,0.4,Amazonas,301,Río Vilca,75.75,75.75,9,Huancavelica,4891,9,Huancavelica,"2,988"
+264,0.6,Titicaca,264,Río Suches,34.71,28.96,Bo,Bolivia,4880,21,Puno,"4,398"
+64,0.4,Amazonas,64,Río Acre,683.38,152.98,Br,Brasil,401,Br,Brasil,90
+239,0.4,Amazonas,239,Río Putumayo,2004.6,1237.23,Co,Colombia,2200,Br,Brasil,55
+8,0.5,Pacific,8,Quebrada Cazaderos,93.96,33.54,Ec,Ecuador,685,24,Tumbes,140
+65,0.4,Amazonas,65,Río Aguarico,502.5,49.85,Ec,Ecuador,3198,16,Loreto,169
+69,0.5,Pacific,69,Río Alamor,117.9,3.57,Ec,Ecuador,1451,20,Piura,113
+116,0.5,Pacific,116,Río Chira,388.9,201.81,Ec,Ecuador,2328,20,Piura,0
+130,0.4,Amazonas,130,Río Corriente,635.8,502.33,Ec,Ecuador,408,16,Loreto,120
+137,0.4,Amazonas,137,Río Curaray,772.77,509.14,Ec,Ecuador,380,16,Loreto,122
+157,0.4,Amazonas,157,Río Huasaga,350.59,237.05,Ec,Ecuador,500,16,Loreto,168
+188,0.5,Pacific,188,Río Macara,142.81,99.06,Ec,Ecuador,1907,20,Piura,225
+202,0.4,Amazonas,202,Río Morona,663.91,424.42,Ec,Ecuador,1125,16,Loreto,129
+207,0.4,Amazonas,207,Río Napo,1089.03,582.34,Ec,Ecuador,3841,16,Loreto,78
+224,0.4,Amazonas,224,Río Pastaza,786.88,353.37,Ec,Ecuador,3762,16,Loreto,125
+236,0.4,Amazonas,236,Río Pucacuro,408.21,386.62,Ec,Ecuador,223,16,Loreto,118
+258,0.4,Amazonas,258,Río Santiago,514.72,201.73,Ec,Ecuador,2225,1,Amazonas,163
+279,0.4,Amazonas,279,Río Tigre,920.23,711.67,Ec,Ecuador,510,16,Loreto,95
+283,0.5,Pacific,283,Río Tumbes,233.67,137.24,Ec,Ecuador,2091,24,Tumbes,3
+315,0.5,Pacific,315,Río Zarumilla,96.85,65.16,Ec,Ecuador,651,24,Tumbes,0

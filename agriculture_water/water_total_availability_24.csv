@@ -1,0 +1,5 @@
+﻿index,basin_id,basin,total_availability,superficial,subterraneal,avg
+1,0,National,2482352,1935622,546730,100
+2,0.4,Atlántico,2438217,1895225,542992,98.2
+3,0.5,Pacífico,37262,34138,3124,1.5
+4,0.6,Titicaca,6873,6259,614,0.3

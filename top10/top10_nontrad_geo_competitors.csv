@@ -1,0 +1,1233 @@
+﻿continent,continent_id,country,country_id,iso_3,product_name,trade_value
+Asia,as,United Arab Emirates,asare,are,Asparagus,1519000
+Asia,as,Armenia,asarm,arm,Asparagus,17979
+Asia,as,Bangladesh,asbgd,bgd,Asparagus,1468
+Asia,as,Brunei,asbrn,brn,Asparagus,34
+Asia,as,Bhutan,asbtn,btn,Asparagus,14
+Asia,as,China,aschn,chn,Asparagus,1784206
+Asia,as,Cyprus,ascyp,cyp,Asparagus,29716
+Asia,as,Georgia,asgeo,geo,Asparagus,85470
+Asia,as,Hong Kong,ashkg,hkg,Asparagus,3114
+Asia,as,Indonesia,asidn,idn,Asparagus,18826
+Asia,as,India,asind,ind,Asparagus,298760
+Asia,as,Iran,asirn,irn,Asparagus,3491
+Asia,as,Israel,asisr,isr,Asparagus,56233
+Asia,as,Jordan,asjor,jor,Asparagus,702
+Asia,as,Japan,asjpn,jpn,Asparagus,70514
+Asia,as,Kazakhstan,askaz,kaz,Asparagus,24
+Asia,as,Kyrgyzstan,askgz,kgz,Asparagus,1842
+Asia,as,Cambodia,askhm,khm,Asparagus,2564
+Asia,as,South Korea,askor,kor,Asparagus,120997
+Asia,as,Laos,aslao,lao,Asparagus,18000
+Asia,as,Lebanon,aslbn,lbn,Asparagus,6715
+Asia,as,Sri Lanka,aslka,lka,Asparagus,22160
+Asia,as,Burma,asmmr,mmr,Asparagus,50
+Asia,as,Malaysia,asmys,mys,Asparagus,67927
+Asia,as,Oman,asomn,omn,Asparagus,263
+Asia,as,Pakistan,aspak,pak,Asparagus,1757
+Asia,as,Philippines,asphl,phl,Asparagus,1143
+Asia,as,Palestine,aspse,pse,Asparagus,13021
+Asia,as,Qatar,asqat,qat,Asparagus,11654
+Asia,as,Saudi Arabia,assau,sau,Asparagus,2145
+Asia,as,Singapore,assgp,sgp,Asparagus,158288
+Asia,as,Syria,assyr,syr,Asparagus,326993
+Asia,as,Thailand,astha,tha,Asparagus,6641435
+Asia,as,Turkey,astur,tur,Asparagus,88261
+Asia,as,Vietnam,asvnm,vnm,Asparagus,41856
+Asia,as,Chinese Taipei,asxxb,,Asparagus,33850
+Asia,as,United Arab Emirates,asare,are,Avocados,11348373
+Asia,as,Bahrain,asbhr,bhr,Avocados,100765
+Asia,as,Brunei,asbrn,brn,Avocados,23606
+Asia,as,China,aschn,chn,Avocados,536807
+Asia,as,Cyprus,ascyp,cyp,Avocados,204066
+Asia,as,Georgia,asgeo,geo,Avocados,388104
+Asia,as,Hong Kong,ashkg,hkg,Avocados,38935871
+Asia,as,Indonesia,asidn,idn,Avocados,185400
+Asia,as,India,asind,ind,Avocados,55418
+Asia,as,Iran,asirn,irn,Avocados,132
+Asia,as,Israel,asisr,isr,Avocados,207516326
+Asia,as,Jordan,asjor,jor,Avocados,49293
+Asia,as,Japan,asjpn,jpn,Avocados,8294
+Asia,as,Kazakhstan,askaz,kaz,Avocados,67428
+Asia,as,Kyrgyzstan,askgz,kgz,Avocados,25117
+Asia,as,Cambodia,askhm,khm,Avocados,139
+Asia,as,South Korea,askor,kor,Avocados,66617
+Asia,as,Kuwait,askwt,kwt,Avocados,30
+Asia,as,Lebanon,aslbn,lbn,Avocados,9636542
+Asia,as,Sri Lanka,aslka,lka,Avocados,181745
+Asia,as,Macau,asmac,mac,Avocados,145056
+Asia,as,Burma,asmmr,mmr,Avocados,944435
+Asia,as,Malaysia,asmys,mys,Avocados,265088
+Asia,as,Oman,asomn,omn,Avocados,90464
+Asia,as,Pakistan,aspak,pak,Avocados,2685
+Asia,as,Philippines,asphl,phl,Avocados,1144987
+Asia,as,Palestine,aspse,pse,Avocados,1065965
+Asia,as,Qatar,asqat,qat,Avocados,1846598
+Asia,as,Saudi Arabia,assau,sau,Avocados,528051
+Asia,as,Singapore,assgp,sgp,Avocados,1228536
+Asia,as,Syria,assyr,syr,Avocados,80679
+Asia,as,Thailand,astha,tha,Avocados,147591
+Asia,as,Timor-Leste,astls,tls,Avocados,143126
+Asia,as,Turkey,astur,tur,Avocados,1378259
+Asia,as,Vietnam,asvnm,vnm,Avocados,179184
+Asia,as,Chinese Taipei,asxxb,,Avocados,272755
+Asia,as,United Arab Emirates,asare,are,Bananas,10883349
+Asia,as,Armenia,asarm,arm,Bananas,2760
+Asia,as,Bahrain,asbhr,bhr,Bananas,169393
+Asia,as,China,aschn,chn,Bananas,19651676
+Asia,as,Cyprus,ascyp,cyp,Bananas,63753
+Asia,as,Georgia,asgeo,geo,Bananas,1843184
+Asia,as,Hong Kong,ashkg,hkg,Bananas,1530021
+Asia,as,Indonesia,asidn,idn,Bananas,14609688
+Asia,as,India,asind,ind,Bananas,55667916
+Asia,as,Jordan,asjor,jor,Bananas,204672
+Asia,as,Kazakhstan,askaz,kaz,Bananas,104576
+Asia,as,Kyrgyzstan,askgz,kgz,Bananas,49925
+Asia,as,South Korea,askor,kor,Bananas,4443
+Asia,as,Kuwait,askwt,kwt,Bananas,31313580
+Asia,as,Lebanon,aslbn,lbn,Bananas,22050000
+Asia,as,Burma,asmmr,mmr,Bananas,131755502
+Asia,as,Malaysia,asmys,mys,Bananas,8422991
+Asia,as,Oman,asomn,omn,Bananas,917689
+Asia,as,Pakistan,aspak,pak,Bananas,22827122
+Asia,as,Philippines,asphl,phl,Bananas,1504777217
+Asia,as,Palestine,aspse,pse,Bananas,92600
+Asia,as,Saudi Arabia,assau,sau,Bananas,5073487
+Asia,as,Singapore,assgp,sgp,Bananas,9063
+Asia,as,Thailand,astha,tha,Bananas,27453931
+Asia,as,Turkey,astur,tur,Bananas,33883
+Asia,as,Afghanistan,asafg,afg,Berries,34784
+Asia,as,United Arab Emirates,asare,are,Berries,1020075
+Asia,as,Armenia,asarm,arm,Berries,276
+Asia,as,Azerbaijan,asaze,aze,Berries,35009
+Asia,as,Bangladesh,asbgd,bgd,Berries,1385
+Asia,as,China,aschn,chn,Berries,1451128
+Asia,as,Cyprus,ascyp,cyp,Berries,21433
+Asia,as,Georgia,asgeo,geo,Berries,5675537
+Asia,as,Hong Kong,ashkg,hkg,Berries,124908753
+Asia,as,Indonesia,asidn,idn,Berries,19782
+Asia,as,India,asind,ind,Berries,113478
+Asia,as,Iran,asirn,irn,Berries,16773
+Asia,as,Israel,asisr,isr,Berries,13881
+Asia,as,Jordan,asjor,jor,Berries,5505
+Asia,as,Japan,asjpn,jpn,Berries,117961
+Asia,as,Kazakhstan,askaz,kaz,Berries,2625
+Asia,as,Kyrgyzstan,askgz,kgz,Berries,337
+Asia,as,South Korea,askor,kor,Berries,234562
+Asia,as,Kuwait,askwt,kwt,Berries,389
+Asia,as,Laos,aslao,lao,Berries,63
+Asia,as,Lebanon,aslbn,lbn,Berries,2730544
+Asia,as,Sri Lanka,aslka,lka,Berries,45175
+Asia,as,Macau,asmac,mac,Berries,203293
+Asia,as,Malaysia,asmys,mys,Berries,72788
+Asia,as,Oman,asomn,omn,Berries,214806
+Asia,as,Pakistan,aspak,pak,Berries,16629
+Asia,as,Philippines,asphl,phl,Berries,94
+Asia,as,Qatar,asqat,qat,Berries,185930
+Asia,as,Saudi Arabia,assau,sau,Berries,169194
+Asia,as,Singapore,assgp,sgp,Berries,364906
+Asia,as,Syria,assyr,syr,Berries,4285
+Asia,as,Thailand,astha,tha,Berries,710246
+Asia,as,Timor-Leste,astls,tls,Berries,7975
+Asia,as,Turkey,astur,tur,Berries,2332537
+Asia,as,Vietnam,asvnm,vnm,Berries,11560
+Asia,as,Chinese Taipei,asxxb,,Berries,319
+Asia,as,United Arab Emirates,asare,are,Tangerines,31267667
+Asia,as,Armenia,asarm,arm,Tangerines,377213
+Asia,as,Azerbaijan,asaze,aze,Tangerines,395678
+Asia,as,Bangladesh,asbgd,bgd,Tangerines,1492
+Asia,as,Bahrain,asbhr,bhr,Tangerines,398
+Asia,as,Brunei,asbrn,brn,Tangerines,1921
+Asia,as,Bhutan,asbtn,btn,Tangerines,8161
+Asia,as,China,aschn,chn,Tangerines,539681793
+Asia,as,Cyprus,ascyp,cyp,Tangerines,11761002
+Asia,as,Georgia,asgeo,geo,Tangerines,26271056
+Asia,as,Hong Kong,ashkg,hkg,Tangerines,36753607
+Asia,as,Indonesia,asidn,idn,Tangerines,53
+Asia,as,India,asind,ind,Tangerines,519407
+Asia,as,Iran,asirn,irn,Tangerines,2643736
+Asia,as,Israel,asisr,isr,Tangerines,121213219
+Asia,as,Jordan,asjor,jor,Tangerines,184990
+Asia,as,Japan,asjpn,jpn,Tangerines,8418905
+Asia,as,Kazakhstan,askaz,kaz,Tangerines,520108
+Asia,as,Kyrgyzstan,askgz,kgz,Tangerines,204829
+Asia,as,Cambodia,askhm,khm,Tangerines,37313
+Asia,as,South Korea,askor,kor,Tangerines,7655723
+Asia,as,Kuwait,askwt,kwt,Tangerines,599363
+Asia,as,Laos,aslao,lao,Tangerines,201107
+Asia,as,Lebanon,aslbn,lbn,Tangerines,1323619
+Asia,as,Sri Lanka,aslka,lka,Tangerines,36090
+Asia,as,Macau,asmac,mac,Tangerines,192206
+Asia,as,Burma,asmmr,mmr,Tangerines,22036
+Asia,as,Malaysia,asmys,mys,Tangerines,1219864
+Asia,as,Oman,asomn,omn,Tangerines,394406
+Asia,as,Pakistan,aspak,pak,Tangerines,163927431
+Asia,as,Philippines,asphl,phl,Tangerines,1151
+Asia,as,Qatar,asqat,qat,Tangerines,30257
+Asia,as,Saudi Arabia,assau,sau,Tangerines,390464
+Asia,as,Singapore,assgp,sgp,Tangerines,1634939
+Asia,as,Syria,assyr,syr,Tangerines,1114802
+Asia,as,Thailand,astha,tha,Tangerines,3099857
+Asia,as,Tajikistan,astjk,tjk,Tangerines,123891
+Asia,as,Turkey,astur,tur,Tangerines,413317999
+Asia,as,Vietnam,asvnm,vnm,Tangerines,380142
+Asia,as,Chinese Taipei,asxxb,,Tangerines,6425473
+Asia,as,Yemen,asyem,yem,Tangerines,2548
+Asia,as,Afghanistan,asafg,afg,Ginger,81107
+Asia,as,United Arab Emirates,asare,are,Ginger,39063757
+Asia,as,Armenia,asarm,arm,Ginger,19463
+Asia,as,Azerbaijan,asaze,aze,Ginger,664
+Asia,as,Bangladesh,asbgd,bgd,Ginger,69409
+Asia,as,Bahrain,asbhr,bhr,Ginger,95486
+Asia,as,Brunei,asbrn,brn,Ginger,20073
+Asia,as,Bhutan,asbtn,btn,Ginger,1768
+Asia,as,China,aschn,chn,Ginger,649076182
+Asia,as,Cyprus,ascyp,cyp,Ginger,3397
+Asia,as,Georgia,asgeo,geo,Ginger,123814
+Asia,as,Hong Kong,ashkg,hkg,Ginger,179173
+Asia,as,Indonesia,asidn,idn,Ginger,3614894
+Asia,as,India,asind,ind,Ginger,130113820
+Asia,as,Iran,asirn,irn,Ginger,577506
+Asia,as,Iraq,asirq,irq,Ginger,1822
+Asia,as,Israel,asisr,isr,Ginger,1610194
+Asia,as,Jordan,asjor,jor,Ginger,221874
+Asia,as,Japan,asjpn,jpn,Ginger,970314
+Asia,as,Kazakhstan,askaz,kaz,Ginger,28963
+Asia,as,Kyrgyzstan,askgz,kgz,Ginger,4916
+Asia,as,Cambodia,askhm,khm,Ginger,271767
+Asia,as,South Korea,askor,kor,Ginger,460286
+Asia,as,Kuwait,askwt,kwt,Ginger,142832
+Asia,as,Laos,aslao,lao,Ginger,3658567
+Asia,as,Lebanon,aslbn,lbn,Ginger,333908
+Asia,as,Sri Lanka,aslka,lka,Ginger,600872
+Asia,as,Burma,asmmr,mmr,Ginger,6015307
+Asia,as,Malaysia,asmys,mys,Ginger,2093019
+Asia,as,Nepal,asnpl,npl,Ginger,3133790
+Asia,as,Oman,asomn,omn,Ginger,321483
+Asia,as,Pakistan,aspak,pak,Ginger,1156082
+Asia,as,Philippines,asphl,phl,Ginger,5378
+Asia,as,Palestine,aspse,pse,Ginger,78699
+Asia,as,Qatar,asqat,qat,Ginger,49211
+Asia,as,Saudi Arabia,assau,sau,Ginger,472370
+Asia,as,Singapore,assgp,sgp,Ginger,988178
+Asia,as,Syria,assyr,syr,Ginger,56346
+Asia,as,Thailand,astha,tha,Ginger,63700614
+Asia,as,Turkmenistan,astkm,tkm,Ginger,17230
+Asia,as,Timor-Leste,astls,tls,Ginger,88
+Asia,as,Turkey,astur,tur,Ginger,1174480
+Asia,as,Uzbekistan,asuzb,uzb,Ginger,2780
+Asia,as,Vietnam,asvnm,vnm,Ginger,9720123
+Asia,as,Chinese Taipei,asxxb,,Ginger,5566944
+Asia,as,Yemen,asyem,yem,Ginger,11916
+Asia,as,China,aschn,chn,Artichokes,2946648
+Asia,as,Israel,asisr,isr,Artichokes,696
+Asia,as,Afghanistan,asafg,afg,Grape,196613711
+Asia,as,United Arab Emirates,asare,are,Grape,77898114
+Asia,as,Armenia,asarm,arm,Grape,7039894
+Asia,as,Azerbaijan,asaze,aze,Grape,7150970
+Asia,as,Bangladesh,asbgd,bgd,Grape,3815
+Asia,as,Bahrain,asbhr,bhr,Grape,5272
+Asia,as,Brunei,asbrn,brn,Grape,14380
+Asia,as,China,aschn,chn,Grape,753050508
+Asia,as,Cyprus,ascyp,cyp,Grape,874788
+Asia,as,Georgia,asgeo,geo,Grape,824698
+Asia,as,Hong Kong,ashkg,hkg,Grape,335294246
+Asia,as,Indonesia,asidn,idn,Grape,328181
+Asia,as,India,asind,ind,Grape,402683016
+Asia,as,Iran,asirn,irn,Grape,129044984
+Asia,as,Iraq,asirq,irq,Grape,139916
+Asia,as,Israel,asisr,isr,Grape,1080972
+Asia,as,Jordan,asjor,jor,Grape,4509324
+Asia,as,Japan,asjpn,jpn,Grape,41475183
+Asia,as,Kazakhstan,askaz,kaz,Grape,2560489
+Asia,as,Kyrgyzstan,askgz,kgz,Grape,3072665
+Asia,as,South Korea,askor,kor,Grape,37355024
+Asia,as,Kuwait,askwt,kwt,Grape,210634
+Asia,as,Laos,aslao,lao,Grape,3262250
+Asia,as,Lebanon,aslbn,lbn,Grape,211548205
+Asia,as,Sri Lanka,aslka,lka,Grape,48592
+Asia,as,Macau,asmac,mac,Grape,75360
+Asia,as,Maldives,asmdv,mdv,Grape,1
+Asia,as,Burma,asmmr,mmr,Grape,122368
+Asia,as,Malaysia,asmys,mys,Grape,1470201
+Asia,as,Oman,asomn,omn,Grape,2918111
+Asia,as,Pakistan,aspak,pak,Grape,1615775
+Asia,as,Philippines,asphl,phl,Grape,78340
+Asia,as,Palestine,aspse,pse,Grape,2656
+Asia,as,Qatar,asqat,qat,Grape,82959
+Asia,as,Saudi Arabia,assau,sau,Grape,2018074
+Asia,as,Singapore,assgp,sgp,Grape,4044105
+Asia,as,Syria,assyr,syr,Grape,3542995
+Asia,as,Thailand,astha,tha,Grape,22121462
+Asia,as,Tajikistan,astjk,tjk,Grape,9838623
+Asia,as,Turkmenistan,astkm,tkm,Grape,150341
+Asia,as,Timor-Leste,astls,tls,Grape,16193
+Asia,as,Turkey,astur,tur,Grape,688818830
+Asia,as,Uzbekistan,asuzb,uzb,Grape,214270890
+Asia,as,Vietnam,asvnm,vnm,Grape,1276041
+Asia,as,Chinese Taipei,asxxb,,Grape,2452460
+Asia,as,Yemen,asyem,yem,Grape,1362789
+Asia,as,Afghanistan,asafg,afg,Mangos,55
+Asia,as,United Arab Emirates,asare,are,Mangos,29063486
+Asia,as,Armenia,asarm,arm,Mangos,75
+Asia,as,Azerbaijan,asaze,aze,Mangos,10
+Asia,as,Bangladesh,asbgd,bgd,Mangos,3888149
+Asia,as,Bahrain,asbhr,bhr,Mangos,80476
+Asia,as,Brunei,asbrn,brn,Mangos,23
+Asia,as,China,aschn,chn,Mangos,82840759
+Asia,as,Cyprus,ascyp,cyp,Mangos,10877
+Asia,as,Georgia,asgeo,geo,Mangos,92430
+Asia,as,Hong Kong,ashkg,hkg,Mangos,36741563
+Asia,as,Indonesia,asidn,idn,Mangos,74149994
+Asia,as,India,asind,ind,Mangos,175537711
+Asia,as,Iran,asirn,irn,Mangos,65272
+Asia,as,Israel,asisr,isr,Mangos,61591639
+Asia,as,Jordan,asjor,jor,Mangos,595760
+Asia,as,Japan,asjpn,jpn,Mangos,751271
+Asia,as,Kazakhstan,askaz,kaz,Mangos,61930
+Asia,as,Kyrgyzstan,askgz,kgz,Mangos,541
+Asia,as,Cambodia,askhm,khm,Mangos,36478339
+Asia,as,South Korea,askor,kor,Mangos,27036
+Asia,as,Kuwait,askwt,kwt,Mangos,926894
+Asia,as,Laos,aslao,lao,Mangos,4543741
+Asia,as,Lebanon,aslbn,lbn,Mangos,401960
+Asia,as,Sri Lanka,aslka,lka,Mangos,3158558
+Asia,as,Macau,asmac,mac,Mangos,713
+Asia,as,Maldives,asmdv,mdv,Mangos,1
+Asia,as,Burma,asmmr,mmr,Mangos,2025986
+Asia,as,Malaysia,asmys,mys,Mangos,8864982
+Asia,as,Nepal,asnpl,npl,Mangos,27272
+Asia,as,Oman,asomn,omn,Mangos,4045901
+Asia,as,Pakistan,aspak,pak,Mangos,157584509
+Asia,as,Philippines,asphl,phl,Mangos,64824918
+Asia,as,Palestine,aspse,pse,Mangos,147918
+Asia,as,Qatar,asqat,qat,Mangos,354179
+Asia,as,Saudi Arabia,assau,sau,Mangos,1613399
+Asia,as,Singapore,assgp,sgp,Mangos,209891
+Asia,as,Syria,assyr,syr,Mangos,173
+Asia,as,Thailand,astha,tha,Mangos,702004508
+Asia,as,Timor-Leste,astls,tls,Mangos,12597
+Asia,as,Turkey,astur,tur,Mangos,3603271
+Asia,as,Uzbekistan,asuzb,uzb,Mangos,1598
+Asia,as,Vietnam,asvnm,vnm,Mangos,211323250
+Asia,as,Chinese Taipei,asxxb,,Mangos,31524222
+Asia,as,Yemen,asyem,yem,Mangos,50751259
+Asia,as,Afghanistan,asafg,afg,Onions,32022662
+Asia,as,United Arab Emirates,asare,are,Onions,48498590
+Asia,as,Armenia,asarm,arm,Onions,86488
+Asia,as,Azerbaijan,asaze,aze,Onions,5216550
+Asia,as,Bangladesh,asbgd,bgd,Onions,52122
+Asia,as,Bahrain,asbhr,bhr,Onions,22741
+Asia,as,Brunei,asbrn,brn,Onions,20682
+Asia,as,China,aschn,chn,Onions,2581133624
+Asia,as,Cyprus,ascyp,cyp,Onions,73271
+Asia,as,Georgia,asgeo,geo,Onions,612982
+Asia,as,Hong Kong,ashkg,hkg,Onions,1969760
+Asia,as,Indonesia,asidn,idn,Onions,7243347
+Asia,as,India,asind,ind,Onions,470745765
+Asia,as,Iran,asirn,irn,Onions,14548796
+Asia,as,Iraq,asirq,irq,Onions,84063
+Asia,as,Israel,asisr,isr,Onions,3646238
+Asia,as,Jordan,asjor,jor,Onions,3326175
+Asia,as,Japan,asjpn,jpn,Onions,4762838
+Asia,as,Kazakhstan,askaz,kaz,Onions,9515489
+Asia,as,Kyrgyzstan,askgz,kgz,Onions,3831657
+Asia,as,Cambodia,askhm,khm,Onions,223163
+Asia,as,South Korea,askor,kor,Onions,6992650
+Asia,as,Kuwait,askwt,kwt,Onions,9821
+Asia,as,Laos,aslao,lao,Onions,4124205
+Asia,as,Lebanon,aslbn,lbn,Onions,3373450
+Asia,as,Sri Lanka,aslka,lka,Onions,760902
+Asia,as,Macau,asmac,mac,Onions,35136
+Asia,as,Burma,asmmr,mmr,Onions,31935066
+Asia,as,Malaysia,asmys,mys,Onions,25836796
+Asia,as,Nepal,asnpl,npl,Onions,9431
+Asia,as,Oman,asomn,omn,Onions,7006949
+Asia,as,Pakistan,aspak,pak,Onions,149359856
+Asia,as,Philippines,asphl,phl,Onions,322174
+Asia,as,Palestine,aspse,pse,Onions,762908
+Asia,as,Qatar,asqat,qat,Onions,27323
+Asia,as,Saudi Arabia,assau,sau,Onions,1110642
+Asia,as,Singapore,assgp,sgp,Onions,9519419
+Asia,as,Syria,assyr,syr,Onions,6574748
+Asia,as,Thailand,astha,tha,Onions,27370151
+Asia,as,Tajikistan,astjk,tjk,Onions,5476200
+Asia,as,Timor-Leste,astls,tls,Onions,8824
+Asia,as,Turkey,astur,tur,Onions,69353731
+Asia,as,Uzbekistan,asuzb,uzb,Onions,30686256
+Asia,as,Vietnam,asvnm,vnm,Onions,7596824
+Asia,as,Chinese Taipei,asxxb,,Onions,1580257
+Asia,as,Yemen,asyem,yem,Onions,50444752
+Europe,eu,Austria,euaut,aut,Asparagus,2948083
+Europe,eu,Belgium,eubel,bel,Asparagus,26017572
+Europe,eu,Bulgaria,eubgr,bgr,Asparagus,282060
+Europe,eu,Belarus,eublr,blr,Asparagus,11200
+Europe,eu,Switzerland,euche,che,Asparagus,61961
+Europe,eu,Czechia,eucze,cze,Asparagus,321471
+Europe,eu,Germany,eudeu,deu,Asparagus,36756657
+Europe,eu,Denmark,eudnk,dnk,Asparagus,5761000
+Europe,eu,Spain,euesp,esp,Asparagus,141305511
+Europe,eu,Estonia,euest,est,Asparagus,4928
+Europe,eu,Finland,eufin,fin,Asparagus,30016
+Europe,eu,France,eufra,fra,Asparagus,28478099
+Europe,eu,United Kingdom,eugbr,gbr,Asparagus,5577472
+Europe,eu,Greece,eugrc,grc,Asparagus,51347572
+Europe,eu,Croatia,euhrv,hrv,Asparagus,223199
+Europe,eu,Hungary,euhun,hun,Asparagus,10178165
+Europe,eu,Ireland,euirl,irl,Asparagus,190031
+Europe,eu,Italy,euita,ita,Asparagus,59790883
+Europe,eu,Lithuania,eultu,ltu,Asparagus,101742
+Europe,eu,Luxembourg,eulux,lux,Asparagus,384317
+Europe,eu,Latvia,eulva,lva,Asparagus,444175
+Europe,eu,North Macedonia,eumkd,mkd,Asparagus,12267
+Europe,eu,Malta,eumlt,mlt,Asparagus,5113
+Europe,eu,Montenegro,eumne,mne,Asparagus,54597
+Europe,eu,Netherlands,eunld,nld,Asparagus,83214646
+Europe,eu,Norway,eunor,nor,Asparagus,140
+Europe,eu,Poland,eupol,pol,Asparagus,3717749
+Europe,eu,Portugal,euprt,prt,Asparagus,1631406
+Europe,eu,Romania,eurou,rou,Asparagus,75082
+Europe,eu,Russia,eurus,rus,Asparagus,7906
+Europe,eu,Serbia,eusrb,srb,Asparagus,1227
+Europe,eu,Slovakia,eusvk,svk,Asparagus,4299505
+Europe,eu,Slovenia,eusvn,svn,Asparagus,27722
+Europe,eu,Sweden,euswe,swe,Asparagus,159234
+Europe,eu,Ukraine,euukr,ukr,Asparagus,210
+Europe,eu,Austria,euaut,aut,Avocados,6436899
+Europe,eu,Belgium,eubel,bel,Avocados,46246087
+Europe,eu,Bulgaria,eubgr,bgr,Avocados,222762
+Europe,eu,Bosnia and Herzegovina,eubih,bih,Avocados,4732
+Europe,eu,Belarus,eublr,blr,Avocados,444199
+Europe,eu,Switzerland,euche,che,Avocados,113850
+Europe,eu,Czechia,eucze,cze,Avocados,4623319
+Europe,eu,Germany,eudeu,deu,Avocados,69315813
+Europe,eu,Denmark,eudnk,dnk,Avocados,16547465
+Europe,eu,Spain,euesp,esp,Avocados,466911033
+Europe,eu,Estonia,euest,est,Avocados,84575
+Europe,eu,Finland,eufin,fin,Avocados,1082259
+Europe,eu,France,eufra,fra,Avocados,79338051
+Europe,eu,United Kingdom,eugbr,gbr,Avocados,17565768
+Europe,eu,Greece,eugrc,grc,Avocados,5667476
+Europe,eu,Croatia,euhrv,hrv,Avocados,56245
+Europe,eu,Hungary,euhun,hun,Avocados,7831067
+Europe,eu,Ireland,euirl,irl,Avocados,868905
+Europe,eu,Iceland,euisl,isl,Avocados,41350
+Europe,eu,Italy,euita,ita,Avocados,5671641
+Europe,eu,Lithuania,eultu,ltu,Avocados,5498737
+Europe,eu,Luxembourg,eulux,lux,Avocados,715162
+Europe,eu,Latvia,eulva,lva,Avocados,4177412
+Europe,eu,Malta,eumlt,mlt,Avocados,13043
+Europe,eu,Montenegro,eumne,mne,Avocados,3063
+Europe,eu,Netherlands,eunld,nld,Avocados,967191137
+Europe,eu,Norway,eunor,nor,Avocados,3301
+Europe,eu,Poland,eupol,pol,Avocados,15570248
+Europe,eu,Portugal,euprt,prt,Avocados,22861830
+Europe,eu,Romania,eurou,rou,Avocados,429467
+Europe,eu,Russia,eurus,rus,Avocados,544343
+Europe,eu,Serbia,eusrb,srb,Avocados,38396
+Europe,eu,Slovakia,eusvk,svk,Avocados,408067
+Europe,eu,Slovenia,eusvn,svn,Avocados,3636637
+Europe,eu,Sweden,euswe,swe,Avocados,1027165
+Europe,eu,Ukraine,euukr,ukr,Avocados,3910
+Europe,eu,Austria,euaut,aut,Bananas,17934452
+Europe,eu,Belgium,eubel,bel,Bananas,959998820
+Europe,eu,Bulgaria,eubgr,bgr,Bananas,778719
+Europe,eu,Bosnia and Herzegovina,eubih,bih,Bananas,34879
+Europe,eu,Belarus,eublr,blr,Bananas,42100
+Europe,eu,Switzerland,euche,che,Bananas,22947
+Europe,eu,Czechia,eucze,cze,Bananas,52821907
+Europe,eu,Germany,eudeu,deu,Bananas,241518289
+Europe,eu,Denmark,eudnk,dnk,Bananas,8922157
+Europe,eu,Spain,euesp,esp,Bananas,80584091
+Europe,eu,Estonia,euest,est,Bananas,22115
+Europe,eu,Finland,eufin,fin,Bananas,5753028
+Europe,eu,France,eufra,fra,Bananas,170688496
+Europe,eu,United Kingdom,eugbr,gbr,Bananas,31092169
+Europe,eu,Greece,eugrc,grc,Bananas,51456105
+Europe,eu,Croatia,euhrv,hrv,Bananas,2333489
+Europe,eu,Hungary,euhun,hun,Bananas,10990707
+Europe,eu,Ireland,euirl,irl,Bananas,11926962
+Europe,eu,Iceland,euisl,isl,Bananas,11574
+Europe,eu,Italy,euita,ita,Bananas,61918243
+Europe,eu,Lithuania,eultu,ltu,Bananas,11454583
+Europe,eu,Luxembourg,eulux,lux,Bananas,465217
+Europe,eu,Latvia,eulva,lva,Bananas,14118227
+Europe,eu,Moldova,eumda,mda,Bananas,39
+Europe,eu,North Macedonia,eumkd,mkd,Bananas,18061
+Europe,eu,Montenegro,eumne,mne,Bananas,31033
+Europe,eu,Netherlands,eunld,nld,Bananas,561361583
+Europe,eu,Poland,eupol,pol,Bananas,67531766
+Europe,eu,Portugal,euprt,prt,Bananas,12549086
+Europe,eu,Romania,eurou,rou,Bananas,253197
+Europe,eu,Russia,eurus,rus,Bananas,50134764
+Europe,eu,Serbia,eusrb,srb,Bananas,520493
+Europe,eu,Slovakia,eusvk,svk,Bananas,26314866
+Europe,eu,Slovenia,eusvn,svn,Bananas,39208322
+Europe,eu,Sweden,euswe,swe,Bananas,33184011
+Europe,eu,Ukraine,euukr,ukr,Bananas,27085
+Europe,eu,Austria,euaut,aut,Berries,9932765
+Europe,eu,Belgium,eubel,bel,Berries,31306225
+Europe,eu,Bulgaria,eubgr,bgr,Berries,291719
+Europe,eu,Bosnia and Herzegovina,eubih,bih,Berries,528576
+Europe,eu,Belarus,eublr,blr,Berries,4985031
+Europe,eu,Switzerland,euche,che,Berries,97061
+Europe,eu,Czechia,eucze,cze,Berries,1801992
+Europe,eu,Germany,eudeu,deu,Berries,51501020
+Europe,eu,Denmark,eudnk,dnk,Berries,650577
+Europe,eu,Spain,euesp,esp,Berries,605731182
+Europe,eu,Estonia,euest,est,Berries,2572077
+Europe,eu,Finland,eufin,fin,Berries,1241031
+Europe,eu,France,eufra,fra,Berries,38432249
+Europe,eu,United Kingdom,eugbr,gbr,Berries,6405811
+Europe,eu,Greece,eugrc,grc,Berries,573203
+Europe,eu,Croatia,euhrv,hrv,Berries,1898134
+Europe,eu,Hungary,euhun,hun,Berries,566304
+Europe,eu,Ireland,euirl,irl,Berries,3593383
+Europe,eu,Iceland,euisl,isl,Berries,228
+Europe,eu,Italy,euita,ita,Berries,26010034
+Europe,eu,Lithuania,eultu,ltu,Berries,3876017
+Europe,eu,Luxembourg,eulux,lux,Berries,215566
+Europe,eu,Latvia,eulva,lva,Berries,15163825
+Europe,eu,North Macedonia,eumkd,mkd,Berries,1024
+Europe,eu,Malta,eumlt,mlt,Berries,25240
+Europe,eu,Montenegro,eumne,mne,Berries,293988
+Europe,eu,Netherlands,eunld,nld,Berries,525481069
+Europe,eu,Norway,eunor,nor,Berries,32610
+Europe,eu,Poland,eupol,pol,Berries,142686326
+Europe,eu,Portugal,euprt,prt,Berries,42903664
+Europe,eu,Romania,eurou,rou,Berries,19737528
+Europe,eu,Russia,eurus,rus,Berries,449045
+Europe,eu,Serbia,eusrb,srb,Berries,29374592
+Europe,eu,Slovakia,eusvk,svk,Berries,905587
+Europe,eu,Slovenia,eusvn,svn,Berries,442540
+Europe,eu,Sweden,euswe,swe,Berries,9175604
+Europe,eu,Ukraine,euukr,ukr,Berries,7240119
+Europe,eu,Albania,eualb,alb,Tangerines,1253470
+Europe,eu,Austria,euaut,aut,Tangerines,5544849
+Europe,eu,Belgium,eubel,bel,Tangerines,1435832
+Europe,eu,Bulgaria,eubgr,bgr,Tangerines,3816431
+Europe,eu,Bosnia and Herzegovina,eubih,bih,Tangerines,51569
+Europe,eu,Belarus,eublr,blr,Tangerines,1371573
+Europe,eu,Switzerland,euche,che,Tangerines,19178
+Europe,eu,Czechia,eucze,cze,Tangerines,5017243
+Europe,eu,Germany,eudeu,deu,Tangerines,11931144
+Europe,eu,Denmark,eudnk,dnk,Tangerines,730378
+Europe,eu,Spain,euesp,esp,Tangerines,428956782
+Europe,eu,Estonia,euest,est,Tangerines,25763
+Europe,eu,Finland,eufin,fin,Tangerines,322776
+Europe,eu,France,eufra,fra,Tangerines,16460932
+Europe,eu,United Kingdom,eugbr,gbr,Tangerines,486922
+Europe,eu,Greece,eugrc,grc,Tangerines,30509964
+Europe,eu,Croatia,euhrv,hrv,Tangerines,14930398
+Europe,eu,Hungary,euhun,hun,Tangerines,3195593
+Europe,eu,Ireland,euirl,irl,Tangerines,865309
+Europe,eu,Iceland,euisl,isl,Tangerines,591
+Europe,eu,Italy,euita,ita,Tangerines,12833093
+Europe,eu,Lithuania,eultu,ltu,Tangerines,4854977
+Europe,eu,Luxembourg,eulux,lux,Tangerines,39121
+Europe,eu,Latvia,eulva,lva,Tangerines,800438
+Europe,eu,Moldova,eumda,mda,Tangerines,11976
+Europe,eu,North Macedonia,eumkd,mkd,Tangerines,57001
+Europe,eu,Malta,eumlt,mlt,Tangerines,393
+Europe,eu,Montenegro,eumne,mne,Tangerines,9
+Europe,eu,Netherlands,eunld,nld,Tangerines,55455809
+Europe,eu,Norway,eunor,nor,Tangerines,4794
+Europe,eu,Poland,eupol,pol,Tangerines,1474969
+Europe,eu,Portugal,euprt,prt,Tangerines,6908366
+Europe,eu,Romania,eurou,rou,Tangerines,1187796
+Europe,eu,Russia,eurus,rus,Tangerines,3703571
+Europe,eu,Serbia,eusrb,srb,Tangerines,27483
+Europe,eu,Slovakia,eusvk,svk,Tangerines,393018
+Europe,eu,Slovenia,eusvn,svn,Tangerines,1417408
+Europe,eu,Sweden,euswe,swe,Tangerines,242883
+Europe,eu,Ukraine,euukr,ukr,Tangerines,2917
+Europe,eu,Albania,eualb,alb,Ginger,1337935
+Europe,eu,Austria,euaut,aut,Ginger,1994145
+Europe,eu,Belgium,eubel,bel,Ginger,2520098
+Europe,eu,Bulgaria,eubgr,bgr,Ginger,147429
+Europe,eu,Bosnia and Herzegovina,eubih,bih,Ginger,23078
+Europe,eu,Belarus,eublr,blr,Ginger,1266600
+Europe,eu,Switzerland,euche,che,Ginger,95182
+Europe,eu,Czechia,eucze,cze,Ginger,1897917
+Europe,eu,Germany,eudeu,deu,Ginger,30864816
+Europe,eu,Denmark,eudnk,dnk,Ginger,1165414
+Europe,eu,Spain,euesp,esp,Ginger,12985504
+Europe,eu,Estonia,euest,est,Ginger,555498
+Europe,eu,Finland,eufin,fin,Ginger,22257
+Europe,eu,France,eufra,fra,Ginger,4817045
+Europe,eu,United Kingdom,eugbr,gbr,Ginger,5078258
+Europe,eu,Greece,eugrc,grc,Ginger,792213
+Europe,eu,Croatia,euhrv,hrv,Ginger,267453
+Europe,eu,Hungary,euhun,hun,Ginger,942141
+Europe,eu,Ireland,euirl,irl,Ginger,126057
+Europe,eu,Iceland,euisl,isl,Ginger,1195
+Europe,eu,Italy,euita,ita,Ginger,3882979
+Europe,eu,Lithuania,eultu,ltu,Ginger,936396
+Europe,eu,Luxembourg,eulux,lux,Ginger,33315
+Europe,eu,Latvia,eulva,lva,Ginger,677712
+Europe,eu,North Macedonia,eumkd,mkd,Ginger,5674
+Europe,eu,Malta,eumlt,mlt,Ginger,101
+Europe,eu,Montenegro,eumne,mne,Ginger,865156
+Europe,eu,Netherlands,eunld,nld,Ginger,126891529
+Europe,eu,Norway,eunor,nor,Ginger,62133
+Europe,eu,Poland,eupol,pol,Ginger,2773482
+Europe,eu,Portugal,euprt,prt,Ginger,325651
+Europe,eu,Romania,eurou,rou,Ginger,131837
+Europe,eu,Russia,eurus,rus,Ginger,360238
+Europe,eu,Serbia,eusrb,srb,Ginger,96180
+Europe,eu,Slovakia,eusvk,svk,Ginger,118534
+Europe,eu,Slovenia,eusvn,svn,Ginger,348441
+Europe,eu,Sweden,euswe,swe,Ginger,730887
+Europe,eu,Ukraine,euukr,ukr,Ginger,76421
+Europe,eu,France,eufra,fra,Artichokes,339
+Europe,eu,Italy,euita,ita,Artichokes,1707
+Europe,eu,Netherlands,eunld,nld,Artichokes,157
+Europe,eu,Albania,eualb,alb,Grape,410115
+Europe,eu,Austria,euaut,aut,Grape,30049646
+Europe,eu,Belgium,eubel,bel,Grape,17168481
+Europe,eu,Bulgaria,eubgr,bgr,Grape,2928196
+Europe,eu,Bosnia and Herzegovina,eubih,bih,Grape,1798672
+Europe,eu,Belarus,eublr,blr,Grape,8474489
+Europe,eu,Switzerland,euche,che,Grape,328631
+Europe,eu,Czechia,eucze,cze,Grape,8040610
+Europe,eu,Germany,eudeu,deu,Grape,107881928
+Europe,eu,Denmark,eudnk,dnk,Grape,12694862
+Europe,eu,Spain,euesp,esp,Grape,517260528
+Europe,eu,Estonia,euest,est,Grape,123686
+Europe,eu,Finland,eufin,fin,Grape,926669
+Europe,eu,France,eufra,fra,Grape,32948961
+Europe,eu,United Kingdom,eugbr,gbr,Grape,9640065
+Europe,eu,Greece,eugrc,grc,Grape,217259154
+Europe,eu,Croatia,euhrv,hrv,Grape,1649878
+Europe,eu,Hungary,euhun,hun,Grape,4706699
+Europe,eu,Ireland,euirl,irl,Grape,9029543
+Europe,eu,Iceland,euisl,isl,Grape,11790
+Europe,eu,Italy,euita,ita,Grape,887887931
+Europe,eu,Lithuania,eultu,ltu,Grape,10719000
+Europe,eu,Luxembourg,eulux,lux,Grape,454023
+Europe,eu,Latvia,eulva,lva,Grape,12196080
+Europe,eu,Moldova,eumda,mda,Grape,54766839
+Europe,eu,North Macedonia,eumkd,mkd,Grape,13845160
+Europe,eu,Malta,eumlt,mlt,Grape,543141
+Europe,eu,Montenegro,eumne,mne,Grape,624088
+Europe,eu,Netherlands,eunld,nld,Grape,728935358
+Europe,eu,Norway,eunor,nor,Grape,350294
+Europe,eu,Poland,eupol,pol,Grape,6303986
+Europe,eu,Portugal,euprt,prt,Grape,6785029
+Europe,eu,Romania,eurou,rou,Grape,1264747
+Europe,eu,Russia,eurus,rus,Grape,3562310
+Europe,eu,Serbia,eusrb,srb,Grape,706366
+Europe,eu,Slovakia,eusvk,svk,Grape,4549431
+Europe,eu,Slovenia,eusvn,svn,Grape,3065778
+Europe,eu,Sweden,euswe,swe,Grape,6236931
+Europe,eu,Ukraine,euukr,ukr,Grape,58271
+Europe,eu,Austria,euaut,aut,Mangos,4802331
+Europe,eu,Belgium,eubel,bel,Mangos,21532128
+Europe,eu,Bulgaria,eubgr,bgr,Mangos,319841
+Europe,eu,Bosnia and Herzegovina,eubih,bih,Mangos,23856
+Europe,eu,Belarus,eublr,blr,Mangos,251600
+Europe,eu,Switzerland,euche,che,Mangos,886257
+Europe,eu,Czechia,eucze,cze,Mangos,1969553
+Europe,eu,Germany,eudeu,deu,Mangos,39959648
+Europe,eu,Denmark,eudnk,dnk,Mangos,1818360
+Europe,eu,Spain,euesp,esp,Mangos,129991125
+Europe,eu,Estonia,euest,est,Mangos,44213
+Europe,eu,Finland,eufin,fin,Mangos,125280
+Europe,eu,France,eufra,fra,Mangos,24865117
+Europe,eu,United Kingdom,eugbr,gbr,Mangos,5728897
+Europe,eu,Greece,eugrc,grc,Mangos,568305
+Europe,eu,Croatia,euhrv,hrv,Mangos,79795
+Europe,eu,Hungary,euhun,hun,Mangos,2772005
+Europe,eu,Ireland,euirl,irl,Mangos,240102
+Europe,eu,Iceland,euisl,isl,Mangos,11599
+Europe,eu,Italy,euita,ita,Mangos,5975101
+Europe,eu,Lithuania,eultu,ltu,Mangos,1834088
+Europe,eu,Luxembourg,eulux,lux,Mangos,2240326
+Europe,eu,Latvia,eulva,lva,Mangos,1149585
+Europe,eu,North Macedonia,eumkd,mkd,Mangos,1161
+Europe,eu,Malta,eumlt,mlt,Mangos,2269
+Europe,eu,Netherlands,eunld,nld,Mangos,353021423
+Europe,eu,Norway,eunor,nor,Mangos,6092
+Europe,eu,Poland,eupol,pol,Mangos,4122612
+Europe,eu,Portugal,euprt,prt,Mangos,24730512
+Europe,eu,Romania,eurou,rou,Mangos,278872
+Europe,eu,Russia,eurus,rus,Mangos,664428
+Europe,eu,Serbia,eusrb,srb,Mangos,18639
+Europe,eu,Slovakia,eusvk,svk,Mangos,870467
+Europe,eu,Slovenia,eusvn,svn,Mangos,2101852
+Europe,eu,Sweden,euswe,swe,Mangos,582230
+Europe,eu,Ukraine,euukr,ukr,Mangos,14881
+Europe,eu,Albania,eualb,alb,Onions,3897214
+Europe,eu,Andorra,euand,and,Onions,35029
+Europe,eu,Austria,euaut,aut,Onions,24861529
+Europe,eu,Belgium,eubel,bel,Onions,95022708
+Europe,eu,Bulgaria,eubgr,bgr,Onions,1158747
+Europe,eu,Bosnia and Herzegovina,eubih,bih,Onions,403003
+Europe,eu,Belarus,eublr,blr,Onions,828554
+Europe,eu,Switzerland,euche,che,Onions,293018
+Europe,eu,Czechia,eucze,cze,Onions,7583678
+Europe,eu,Germany,eudeu,deu,Onions,60408201
+Europe,eu,Denmark,eudnk,dnk,Onions,8021563
+Europe,eu,Spain,euesp,esp,Onions,696556811
+Europe,eu,Estonia,euest,est,Onions,415994
+Europe,eu,Finland,eufin,fin,Onions,142267
+Europe,eu,France,eufra,fra,Onions,156659879
+Europe,eu,United Kingdom,eugbr,gbr,Onions,7734234
+Europe,eu,Greece,eugrc,grc,Onions,5857224
+Europe,eu,Croatia,euhrv,hrv,Onions,1579679
+Europe,eu,Hungary,euhun,hun,Onions,2969246
+Europe,eu,Ireland,euirl,irl,Onions,4001524
+Europe,eu,Iceland,euisl,isl,Onions,12511
+Europe,eu,Italy,euita,ita,Onions,101172146
+Europe,eu,Lithuania,eultu,ltu,Onions,3250590
+Europe,eu,Luxembourg,eulux,lux,Onions,728622
+Europe,eu,Latvia,eulva,lva,Onions,2785961
+Europe,eu,Moldova,eumda,mda,Onions,848358
+Europe,eu,North Macedonia,eumkd,mkd,Onions,1307358
+Europe,eu,Malta,eumlt,mlt,Onions,24409
+Europe,eu,Montenegro,eumne,mne,Onions,13350
+Europe,eu,Netherlands,eunld,nld,Onions,913793345
+Europe,eu,Norway,eunor,nor,Onions,222463
+Europe,eu,Poland,eupol,pol,Onions,86504299
+Europe,eu,Portugal,euprt,prt,Onions,13473589
+Europe,eu,Romania,eurou,rou,Onions,1518565
+Europe,eu,Russia,eurus,rus,Onions,8889063
+Europe,eu,Serbia,eusrb,srb,Onions,4444046
+Europe,eu,Slovakia,eusvk,svk,Onions,8547939
+Europe,eu,Slovenia,eusvn,svn,Onions,3044895
+Europe,eu,Sweden,euswe,swe,Onions,1515327
+Europe,eu,Ukraine,euukr,ukr,Onions,5008016
+Africa,af,Angola,afago,ago,Asparagus,1
+Africa,af,Benin,afben,ben,Asparagus,11
+Africa,af,Botswana,afbwa,bwa,Asparagus,6
+Africa,af,Cameroon,afcmr,cmr,Asparagus,891
+Africa,af,Democratic Republic of the Congo,afcod,cod,Asparagus,126
+Africa,af,Republic of the Congo,afcog,cog,Asparagus,4142
+Africa,af,Egypt,afegy,egy,Asparagus,48628
+Africa,af,Ethiopia,afeth,eth,Asparagus,54
+Africa,af,Ghana,afgha,gha,Asparagus,3550
+Africa,af,Gambia,afgmb,gmb,Asparagus,96
+Africa,af,Kenya,afken,ken,Asparagus,78926
+Africa,af,Morocco,afmar,mar,Asparagus,1354463
+Africa,af,Madagascar,afmdg,mdg,Asparagus,404
+Africa,af,Mozambique,afmoz,moz,Asparagus,50116
+Africa,af,Namibia,afnam,nam,Asparagus,1335
+Africa,af,Nigeria,afnga,nga,Asparagus,276445
+Africa,af,Rwanda,afrwa,rwa,Asparagus,34
+Africa,af,Senegal,afsen,sen,Asparagus,128
+Africa,af,Eswatini,afswz,swz,Asparagus,117
+Africa,af,Seychelles,afsyc,syc,Asparagus,1105
+Africa,af,Togo,aftgo,tgo,Asparagus,91
+Africa,af,Tanzania,aftza,tza,Asparagus,308
+Africa,af,Uganda,afuga,uga,Asparagus,19288
+Africa,af,South Africa,afzaf,zaf,Asparagus,240855
+Africa,af,Zambia,afzmb,zmb,Asparagus,39
+Africa,af,Zimbabwe,afzwe,zwe,Asparagus,933
+Africa,af,Angola,afago,ago,Avocados,1344
+Africa,af,Burundi,afbdi,bdi,Avocados,158492
+Africa,af,Botswana,afbwa,bwa,Avocados,228
+Africa,af,Central African Republic,afcaf,caf,Avocados,2082
+Africa,af,Cote d'Ivoire,afciv,civ,Avocados,62357
+Africa,af,Cameroon,afcmr,cmr,Avocados,75364
+Africa,af,Democratic Republic of the Congo,afcod,cod,Avocados,1447
+Africa,af,Algeria,afdza,dza,Avocados,10199
+Africa,af,Egypt,afegy,egy,Avocados,214295
+Africa,af,Ethiopia,afeth,eth,Avocados,1274477
+Africa,af,Ghana,afgha,gha,Avocados,36259
+Africa,af,Kenya,afken,ken,Avocados,149929309
+Africa,af,Lesotho,aflso,lso,Avocados,191
+Africa,af,Morocco,afmar,mar,Avocados,101966880
+Africa,af,Madagascar,afmdg,mdg,Avocados,353
+Africa,af,Mali,afmli,mli,Avocados,40
+Africa,af,Mozambique,afmoz,moz,Avocados,3599611
+Africa,af,Mauritania,afmrt,mrt,Avocados,50566
+Africa,af,Mauritius,afmus,mus,Avocados,1388
+Africa,af,Namibia,afnam,nam,Avocados,1575
+Africa,af,Nigeria,afnga,nga,Avocados,330
+Africa,af,Rwanda,afrwa,rwa,Avocados,2998888
+Africa,af,Senegal,afsen,sen,Avocados,3417
+Africa,af,Saint Helena,afshn,shn,Avocados,241
+Africa,af,Eswatini,afswz,swz,Avocados,725893
+Africa,af,Togo,aftgo,tgo,Avocados,21339
+Africa,af,Tunisia,aftun,tun,Avocados,118
+Africa,af,Tanzania,aftza,tza,Avocados,18299883
+Africa,af,Uganda,afuga,uga,Avocados,5687191
+Africa,af,South Africa,afzaf,zaf,Avocados,132880502
+Africa,af,Zambia,afzmb,zmb,Avocados,1871
+Africa,af,Zimbabwe,afzwe,zwe,Avocados,8560266
+Africa,af,Angola,afago,ago,Bananas,796164
+Africa,af,Burundi,afbdi,bdi,Bananas,123234
+Africa,af,Botswana,afbwa,bwa,Bananas,3306
+Africa,af,Cote d'Ivoire,afciv,civ,Bananas,174813498
+Africa,af,Egypt,afegy,egy,Bananas,22909290
+Africa,af,Ghana,afgha,gha,Bananas,46709092
+Africa,af,Kenya,afken,ken,Bananas,46473
+Africa,af,Morocco,afmar,mar,Bananas,87119
+Africa,af,Madagascar,afmdg,mdg,Bananas,64726
+Africa,af,Mozambique,afmoz,moz,Bananas,29548527
+Africa,af,Namibia,afnam,nam,Bananas,470
+Africa,af,Senegal,afsen,sen,Bananas,467
+Africa,af,Tanzania,aftza,tza,Bananas,3103259
+Africa,af,Uganda,afuga,uga,Bananas,727267
+Africa,af,South Africa,afzaf,zaf,Bananas,12946010
+Africa,af,Zambia,afzmb,zmb,Bananas,39885
+Africa,af,Zimbabwe,afzwe,zwe,Bananas,723456
+Africa,af,Botswana,afbwa,bwa,Berries,30
+Africa,af,Cote d'Ivoire,afciv,civ,Berries,116180
+Africa,af,Algeria,afdza,dza,Berries,144
+Africa,af,Egypt,afegy,egy,Berries,128320
+Africa,af,Ethiopia,afeth,eth,Berries,60252
+Africa,af,Ghana,afgha,gha,Berries,215
+Africa,af,Kenya,afken,ken,Berries,48935
+Africa,af,Morocco,afmar,mar,Berries,350352481
+Africa,af,Madagascar,afmdg,mdg,Berries,8538
+Africa,af,Mauritania,afmrt,mrt,Berries,91687
+Africa,af,Mauritius,afmus,mus,Berries,433660
+Africa,af,Namibia,afnam,nam,Berries,1234871
+Africa,af,Eswatini,afswz,swz,Berries,2583
+Africa,af,Chad,aftcd,tcd,Berries,2047
+Africa,af,Tunisia,aftun,tun,Berries,84782
+Africa,af,Uganda,afuga,uga,Berries,321
+Africa,af,South Africa,afzaf,zaf,Berries,155895393
+Africa,af,Zambia,afzmb,zmb,Berries,2555285
+Africa,af,Zimbabwe,afzwe,zwe,Berries,7447173
+Africa,af,Angola,afago,ago,Tangerines,959
+Africa,af,Burundi,afbdi,bdi,Tangerines,127
+Africa,af,Algeria,afdza,dza,Tangerines,4953
+Africa,af,Egypt,afegy,egy,Tangerines,78249463
+Africa,af,Ethiopia,afeth,eth,Tangerines,4530
+Africa,af,Ghana,afgha,gha,Tangerines,28
+Africa,af,Kenya,afken,ken,Tangerines,105310
+Africa,af,Morocco,afmar,mar,Tangerines,207541858
+Africa,af,Madagascar,afmdg,mdg,Tangerines,44
+Africa,af,Mozambique,afmoz,moz,Tangerines,744
+Africa,af,Mauritius,afmus,mus,Tangerines,62
+Africa,af,Namibia,afnam,nam,Tangerines,5321
+Africa,af,Senegal,afsen,sen,Tangerines,645
+Africa,af,Eswatini,afswz,swz,Tangerines,84437
+Africa,af,Tunisia,aftun,tun,Tangerines,16293
+Africa,af,Uganda,afuga,uga,Tangerines,13586
+Africa,af,South Africa,afzaf,zaf,Tangerines,508857360
+Africa,af,Zambia,afzmb,zmb,Tangerines,13075
+Africa,af,Zimbabwe,afzwe,zwe,Tangerines,139186
+Africa,af,Angola,afago,ago,Ginger,2118
+Africa,af,Burundi,afbdi,bdi,Ginger,838
+Africa,af,Benin,afben,ben,Ginger,481
+Africa,af,Burkina Faso,afbfa,bfa,Ginger,652549
+Africa,af,Botswana,afbwa,bwa,Ginger,1022
+Africa,af,Cote d'Ivoire,afciv,civ,Ginger,114197
+Africa,af,Cameroon,afcmr,cmr,Ginger,203396
+Africa,af,Democratic Republic of the Congo,afcod,cod,Ginger,2227
+Africa,af,Republic of the Congo,afcog,cog,Ginger,9364
+Africa,af,Algeria,afdza,dza,Ginger,4803
+Africa,af,Egypt,afegy,egy,Ginger,445693
+Africa,af,Ethiopia,afeth,eth,Ginger,453757
+Africa,af,Ghana,afgha,gha,Ginger,28886
+Africa,af,Guinea,afgin,gin,Ginger,950
+Africa,af,Kenya,afken,ken,Ginger,323819
+Africa,af,Morocco,afmar,mar,Ginger,134381
+Africa,af,Madagascar,afmdg,mdg,Ginger,870265
+Africa,af,Mali,afmli,mli,Ginger,3766
+Africa,af,Mozambique,afmoz,moz,Ginger,817938
+Africa,af,Mauritius,afmus,mus,Ginger,3627
+Africa,af,Malawi,afmwi,mwi,Ginger,5138
+Africa,af,Namibia,afnam,nam,Ginger,522
+Africa,af,Niger,afner,ner,Ginger,97060
+Africa,af,Nigeria,afnga,nga,Ginger,73165510
+Africa,af,Rwanda,afrwa,rwa,Ginger,9132
+Africa,af,Sudan,afsdn,sdn,Ginger,1011
+Africa,af,Senegal,afsen,sen,Ginger,2223
+Africa,af,Saint Helena,afshn,shn,Ginger,66
+Africa,af,Sao Tome and Principe,afstp,stp,Ginger,12313
+Africa,af,Chad,aftcd,tcd,Ginger,3867
+Africa,af,Togo,aftgo,tgo,Ginger,31700
+Africa,af,Tunisia,aftun,tun,Ginger,3033
+Africa,af,Tanzania,aftza,tza,Ginger,4826975
+Africa,af,Uganda,afuga,uga,Ginger,337070
+Africa,af,South Africa,afzaf,zaf,Ginger,3501498
+Africa,af,Zambia,afzmb,zmb,Ginger,14273
+Africa,af,Zimbabwe,afzwe,zwe,Ginger,9411
+Africa,af,Egypt,afegy,egy,Artichokes,5743279
+Africa,af,Angola,afago,ago,Grape,4001
+Africa,af,Burkina Faso,afbfa,bfa,Grape,48289
+Africa,af,Botswana,afbwa,bwa,Grape,510
+Africa,af,Central African Republic,afcaf,caf,Grape,20785
+Africa,af,Cote d'Ivoire,afciv,civ,Grape,2530
+Africa,af,Cameroon,afcmr,cmr,Grape,3630
+Africa,af,Democratic Republic of the Congo,afcod,cod,Grape,1824
+Africa,af,Algeria,afdza,dza,Grape,52226
+Africa,af,Egypt,afegy,egy,Grape,259460622
+Africa,af,Ethiopia,afeth,eth,Grape,9509
+Africa,af,Ghana,afgha,gha,Grape,1538
+Africa,af,Kenya,afken,ken,Grape,140061
+Africa,af,Liberia,aflbr,lbr,Grape,213
+Africa,af,Morocco,afmar,mar,Grape,14458585
+Africa,af,Madagascar,afmdg,mdg,Grape,86
+Africa,af,Mozambique,afmoz,moz,Grape,4185
+Africa,af,Mauritius,afmus,mus,Grape,16174
+Africa,af,Namibia,afnam,nam,Grape,66484416
+Africa,af,Nigeria,afnga,nga,Grape,1337
+Africa,af,Rwanda,afrwa,rwa,Grape,1877
+Africa,af,Sudan,afsdn,sdn,Grape,607
+Africa,af,Senegal,afsen,sen,Grape,6422
+Africa,af,Somalia,afsom,som,Grape,1218
+Africa,af,Togo,aftgo,tgo,Grape,1875
+Africa,af,Tunisia,aftun,tun,Grape,1151177
+Africa,af,Tanzania,aftza,tza,Grape,221447
+Africa,af,Uganda,afuga,uga,Grape,11827
+Africa,af,South Africa,afzaf,zaf,Grape,868425410
+Africa,af,Zambia,afzmb,zmb,Grape,13491
+Africa,af,Zimbabwe,afzwe,zwe,Grape,186952
+Africa,af,Angola,afago,ago,Mangos,130751
+Africa,af,Burundi,afbdi,bdi,Mangos,13
+Africa,af,Benin,afben,ben,Mangos,3226056
+Africa,af,Burkina Faso,afbfa,bfa,Mangos,37718682
+Africa,af,Botswana,afbwa,bwa,Mangos,22
+Africa,af,Cote d'Ivoire,afciv,civ,Mangos,40709956
+Africa,af,Cameroon,afcmr,cmr,Mangos,134824
+Africa,af,Democratic Republic of the Congo,afcod,cod,Mangos,1790
+Africa,af,Comoros,afcom,com,Mangos,1
+Africa,af,Algeria,afdza,dza,Mangos,54
+Africa,af,Egypt,afegy,egy,Mangos,63144162
+Africa,af,Eritrea,aferi,eri,Mangos,16609
+Africa,af,Ethiopia,afeth,eth,Mangos,210728
+Africa,af,Ghana,afgha,gha,Mangos,57658449
+Africa,af,Guinea,afgin,gin,Mangos,76084
+Africa,af,Gambia,afgmb,gmb,Mangos,2155191
+Africa,af,Kenya,afken,ken,Mangos,19113253
+Africa,af,Morocco,afmar,mar,Mangos,181870
+Africa,af,Madagascar,afmdg,mdg,Mangos,14872
+Africa,af,Mali,afmli,mli,Mangos,9777803
+Africa,af,Mozambique,afmoz,moz,Mangos,1521520
+Africa,af,Mauritius,afmus,mus,Mangos,3392
+Africa,af,Malawi,afmwi,mwi,Mangos,1864391
+Africa,af,Namibia,afnam,nam,Mangos,88779
+Africa,af,Nigeria,afnga,nga,Mangos,69830
+Africa,af,Rwanda,afrwa,rwa,Mangos,150455
+Africa,af,Sudan,afsdn,sdn,Mangos,1269063
+Africa,af,Senegal,afsen,sen,Mangos,24137646
+Africa,af,Saint Helena,afshn,shn,Mangos,125
+Africa,af,Sierra Leone,afsle,sle,Mangos,448
+Africa,af,South Sudan,afssd,ssd,Mangos,38121
+Africa,af,Eswatini,afswz,swz,Mangos,124569
+Africa,af,Togo,aftgo,tgo,Mangos,46088
+Africa,af,Tunisia,aftun,tun,Mangos,52330
+Africa,af,Tanzania,aftza,tza,Mangos,1487537
+Africa,af,Uganda,afuga,uga,Mangos,363246
+Africa,af,South Africa,afzaf,zaf,Mangos,16973298
+Africa,af,Zambia,afzmb,zmb,Mangos,10645
+Africa,af,Zimbabwe,afzwe,zwe,Mangos,48993
+Africa,af,Angola,afago,ago,Onions,72027
+Africa,af,Burundi,afbdi,bdi,Onions,275
+Africa,af,Benin,afben,ben,Onions,225783
+Africa,af,Burkina Faso,afbfa,bfa,Onions,798653
+Africa,af,Botswana,afbwa,bwa,Onions,692
+Africa,af,Central African Republic,afcaf,caf,Onions,87
+Africa,af,Cote d'Ivoire,afciv,civ,Onions,61341
+Africa,af,Cameroon,afcmr,cmr,Onions,340478
+Africa,af,Democratic Republic of the Congo,afcod,cod,Onions,191
+Africa,af,Republic of the Congo,afcog,cog,Onions,130544
+Africa,af,Cape Verde,afcpv,cpv,Onions,1743
+Africa,af,Algeria,afdza,dza,Onions,290691
+Africa,af,Egypt,afegy,egy,Onions,198662787
+Africa,af,Eritrea,aferi,eri,Onions,29
+Africa,af,Ethiopia,afeth,eth,Onions,6969362
+Africa,af,Ghana,afgha,gha,Onions,197347
+Africa,af,Equatorial Guinea,afgnq,gnq,Onions,7351
+Africa,af,Kenya,afken,ken,Onions,4070896
+Africa,af,Morocco,afmar,mar,Onions,41745524
+Africa,af,Madagascar,afmdg,mdg,Onions,2461282
+Africa,af,Mali,afmli,mli,Onions,1448
+Africa,af,Mozambique,afmoz,moz,Onions,13521
+Africa,af,Mauritania,afmrt,mrt,Onions,131
+Africa,af,Mauritius,afmus,mus,Onions,2466
+Africa,af,Malawi,afmwi,mwi,Onions,24190
+Africa,af,Namibia,afnam,nam,Onions,3856376
+Africa,af,Niger,afner,ner,Onions,23449034
+Africa,af,Nigeria,afnga,nga,Onions,1841464
+Africa,af,Rwanda,afrwa,rwa,Onions,115440
+Africa,af,Sudan,afsdn,sdn,Onions,1801906
+Africa,af,Senegal,afsen,sen,Onions,15222963
+Africa,af,South Sudan,afssd,ssd,Onions,2098830
+Africa,af,Togo,aftgo,tgo,Onions,33368
+Africa,af,Tunisia,aftun,tun,Onions,758469
+Africa,af,Tanzania,aftza,tza,Onions,5441931
+Africa,af,Uganda,afuga,uga,Onions,681869
+Africa,af,South Africa,afzaf,zaf,Onions,37630529
+Africa,af,Zambia,afzmb,zmb,Onions,19265
+Africa,af,Zimbabwe,afzwe,zwe,Onions,44070
+North America,na,Canada,nacan,can,Asparagus,8232589
+North America,na,Costa Rica,nacri,cri,Asparagus,57420
+North America,na,Dominican Republic,nadom,dom,Asparagus,1944
+North America,na,Guatemala,nagtm,gtm,Asparagus,338909
+North America,na,Jamaica,najam,jam,Asparagus,61
+North America,na,Mexico,namex,mex,Asparagus,598212353
+North America,na,Trinidad and Tobago,natto,tto,Asparagus,635
+North America,na,United States,nausa,usa,Asparagus,148837674
+North America,na,Aruba,naabw,abw,Avocados,352
+North America,na,Canada,nacan,can,Avocados,138175
+North America,na,Costa Rica,nacri,cri,Avocados,871669
+North America,na,Cuba,nacub,cub,Avocados,29234
+North America,na,Cayman Islands,nacym,cym,Avocados,1963
+North America,na,Dominica,nadma,dma,Avocados,54838
+North America,na,Dominican Republic,nadom,dom,Avocados,97240624
+North America,na,Grenada,nagrd,grd,Avocados,1079
+North America,na,Guatemala,nagtm,gtm,Avocados,11878520
+North America,na,Honduras,nahnd,hnd,Avocados,6032361
+North America,na,Haiti,nahti,hti,Avocados,387
+North America,na,Jamaica,najam,jam,Avocados,308860
+North America,na,Saint Lucia,nalca,lca,Avocados,11609
+North America,na,Mexico,namex,mex,Avocados,3201841302
+North America,na,Montserrat,namsr,msr,Avocados,44685
+North America,na,Nicaragua,nanic,nic,Avocados,274685
+North America,na,Panama,napan,pan,Avocados,72539
+North America,na,El Salvador,naslv,slv,Avocados,242
+North America,na,Trinidad and Tobago,natto,tto,Avocados,15
+North America,na,United States,nausa,usa,Avocados,103849786
+North America,na,Saint Vincent and the Grenadines,navct,vct,Avocados,74282
+North America,na,Aruba,naabw,abw,Bananas,12757
+North America,na,Belize,nablz,blz,Bananas,29416855
+North America,na,Bermuda,nabmu,bmu,Bananas,6905
+North America,na,Barbados,nabrb,brb,Bananas,145
+North America,na,Canada,nacan,can,Bananas,188992
+North America,na,Costa Rica,nacri,cri,Bananas,1030913756
+North America,na,Mexico,namex,mex,Bananas,260469125
+North America,na,Nicaragua,nanic,nic,Bananas,59369812
+North America,na,El Salvador,naslv,slv,Bananas,1171311
+North America,na,United States,nausa,usa,Bananas,444473109
+North America,na,Saint Vincent and the Grenadines,navct,vct,Bananas,1529224
+North America,na,Aruba,naabw,abw,Berries,308
+North America,na,Barbados,nabrb,brb,Berries,292
+North America,na,Canada,nacan,can,Berries,152164490
+North America,na,Costa Rica,nacri,cri,Berries,41722
+North America,na,Dominican Republic,nadom,dom,Berries,654
+North America,na,Guatemala,nagtm,gtm,Berries,471029
+North America,na,Mexico,namex,mex,Berries,374060270
+North America,na,El Salvador,naslv,slv,Berries,144
+North America,na,United States,nausa,usa,Berries,237011437
+North America,na,Bermuda,nabmu,bmu,Tangerines,266
+North America,na,Canada,nacan,can,Tangerines,13207
+North America,na,Costa Rica,nacri,cri,Tangerines,145274
+North America,na,Dominican Republic,nadom,dom,Tangerines,5447
+North America,na,Guatemala,nagtm,gtm,Tangerines,217669
+North America,na,Honduras,nahnd,hnd,Tangerines,113983
+North America,na,Jamaica,najam,jam,Tangerines,99782
+North America,na,Mexico,namex,mex,Tangerines,3748390
+North America,na,Nicaragua,nanic,nic,Tangerines,5532
+North America,na,Panama,napan,pan,Tangerines,23868
+North America,na,United States,nausa,usa,Tangerines,75066071
+North America,na,Bahamas,nabhs,bhs,Ginger,2
+North America,na,Bermuda,nabmu,bmu,Ginger,109
+North America,na,Canada,nacan,can,Ginger,823790
+North America,na,Costa Rica,nacri,cri,Ginger,6134285
+North America,na,Cuba,nacub,cub,Ginger,3934
+North America,na,Curaçao,nacuw,cuw,Ginger,56
+North America,na,Dominica,nadma,dma,Ginger,79183
+North America,na,Dominican Republic,nadom,dom,Ginger,50975
+North America,na,Grenada,nagrd,grd,Ginger,15670
+North America,na,Guatemala,nagtm,gtm,Ginger,60284
+North America,na,Honduras,nahnd,hnd,Ginger,2916711
+North America,na,Jamaica,najam,jam,Ginger,1185392
+North America,na,Saint Kitts and Nevis,nakna,kna,Ginger,34
+North America,na,Saint Lucia,nalca,lca,Ginger,124
+North America,na,Mexico,namex,mex,Ginger,1741624
+North America,na,Nicaragua,nanic,nic,Ginger,836863
+North America,na,Panama,napan,pan,Ginger,79932
+North America,na,El Salvador,naslv,slv,Ginger,6488
+North America,na,Trinidad and Tobago,natto,tto,Ginger,51944
+North America,na,United States,nausa,usa,Ginger,10950954
+North America,na,Saint Vincent and the Grenadines,navct,vct,Ginger,450932
+North America,na,United States,nausa,usa,Artichokes,9274
+North America,na,Aruba,naabw,abw,Grape,13
+North America,na,Bermuda,nabmu,bmu,Grape,159
+North America,na,Barbados,nabrb,brb,Grape,5259
+North America,na,Canada,nacan,can,Grape,3393760
+North America,na,Costa Rica,nacri,cri,Grape,765661
+North America,na,Dominican Republic,nadom,dom,Grape,61415
+North America,na,Guatemala,nagtm,gtm,Grape,281290
+North America,na,Honduras,nahnd,hnd,Grape,7356
+North America,na,Jamaica,najam,jam,Grape,55061
+North America,na,Mexico,namex,mex,Grape,108283856
+North America,na,Nicaragua,nanic,nic,Grape,1192
+North America,na,Panama,napan,pan,Grape,141740
+North America,na,El Salvador,naslv,slv,Grape,10186
+North America,na,Trinidad and Tobago,natto,tto,Grape,82796
+North America,na,United States,nausa,usa,Grape,966466628
+North America,na,Aruba,naabw,abw,Mangos,256
+North America,na,Bahamas,nabhs,bhs,Mangos,613
+North America,na,Belize,nablz,blz,Mangos,5763
+North America,na,Canada,nacan,can,Mangos,7381234
+North America,na,Costa Rica,nacri,cri,Mangos,8855473
+North America,na,Cuba,nacub,cub,Mangos,74693
+North America,na,Dominica,nadma,dma,Mangos,64838
+North America,na,Dominican Republic,nadom,dom,Mangos,48207188
+North America,na,Grenada,nagrd,grd,Mangos,2638
+North America,na,Guatemala,nagtm,gtm,Mangos,10494630
+North America,na,Honduras,nahnd,hnd,Mangos,32909
+North America,na,Haiti,nahti,hti,Mangos,18272265
+North America,na,Jamaica,najam,jam,Mangos,1650921
+North America,na,Saint Lucia,nalca,lca,Mangos,92855
+North America,na,Mexico,namex,mex,Mangos,523438720
+North America,na,Nicaragua,nanic,nic,Mangos,3117212
+North America,na,Panama,napan,pan,Mangos,5697
+North America,na,El Salvador,naslv,slv,Mangos,3952
+North America,na,Trinidad and Tobago,natto,tto,Mangos,1953
+North America,na,United States,nausa,usa,Mangos,41304481
+North America,na,Saint Vincent and the Grenadines,navct,vct,Mangos,109856
+North America,na,Aruba,naabw,abw,Onions,788
+North America,na,Saint Barthélemy,nablm,blm,Onions,4260
+North America,na,Belize,nablz,blz,Onions,6980
+North America,na,Bermuda,nabmu,bmu,Onions,459
+North America,na,Barbados,nabrb,brb,Onions,494
+North America,na,Canada,nacan,can,Onions,56905946
+North America,na,Costa Rica,nacri,cri,Onions,150403
+North America,na,Curaçao,nacuw,cuw,Onions,86337
+North America,na,Dominican Republic,nadom,dom,Onions,44460
+North America,na,Guatemala,nagtm,gtm,Onions,6338608
+North America,na,Honduras,nahnd,hnd,Onions,183749
+North America,na,Haiti,nahti,hti,Onions,208
+North America,na,Jamaica,najam,jam,Onions,249416
+North America,na,Mexico,namex,mex,Onions,473049039
+North America,na,Nicaragua,nanic,nic,Onions,199642
+North America,na,Panama,napan,pan,Onions,43554
+North America,na,El Salvador,naslv,slv,Onions,933
+North America,na,Turks and Caicos Islands,natca,tca,Onions,35126
+North America,na,Trinidad and Tobago,natto,tto,Onions,1033590
+North America,na,United States,nausa,usa,Onions,250392920
+North America,na,Saint Vincent and the Grenadines,navct,vct,Onions,502
+South America,sa,Argentina,saarg,arg,Asparagus,181295
+South America,sa,Brazil,sabra,bra,Asparagus,20811
+South America,sa,Chile,sachl,chl,Asparagus,65252
+South America,sa,Colombia,sacol,col,Asparagus,8757
+South America,sa,Ecuador,saecu,ecu,Asparagus,1848719
+South America,sa,Peru,saper,per,Asparagus,417400696
+South America,sa,Argentina,saarg,arg,Avocados,499417
+South America,sa,Bolivia,sabol,bol,Avocados,251
+South America,sa,Brazil,sabra,bra,Avocados,19100977
+South America,sa,Chile,sachl,chl,Avocados,320073071
+South America,sa,Colombia,sacol,col,Avocados,230700892
+South America,sa,Ecuador,saecu,ecu,Avocados,654179
+South America,sa,Peru,saper,per,Avocados,1149119394
+South America,sa,Paraguay,sapry,pry,Avocados,784
+South America,sa,Suriname,sasur,sur,Avocados,1154
+South America,sa,Uruguay,saury,ury,Avocados,26726
+South America,sa,Bolivia,sabol,bol,Bananas,33162024
+South America,sa,Brazil,sabra,bra,Bananas,20497188
+South America,sa,Chile,sachl,chl,Bananas,305944
+South America,sa,Colombia,sacol,col,Bananas,866179273
+South America,sa,Ecuador,saecu,ecu,Bananas,3218214911
+South America,sa,Guyana,saguy,guy,Bananas,179611
+South America,sa,Peru,saper,per,Bananas,168588813
+South America,sa,Paraguay,sapry,pry,Bananas,8107871
+South America,sa,Uruguay,saury,ury,Bananas,40034
+South America,sa,Argentina,saarg,arg,Berries,34282014
+South America,sa,Brazil,sabra,bra,Berries,31535
+South America,sa,Chile,sachl,chl,Berries,597604062
+South America,sa,Colombia,sacol,col,Berries,2449748
+South America,sa,Ecuador,saecu,ecu,Berries,11384
+South America,sa,Guyana,saguy,guy,Berries,21
+South America,sa,Peru,saper,per,Berries,1234750138
+South America,sa,Suriname,sasur,sur,Berries,500713
+South America,sa,Uruguay,saury,ury,Berries,3030039
+South America,sa,Argentina,saarg,arg,Tangerines,13007308
+South America,sa,Brazil,sabra,bra,Tangerines,252399
+South America,sa,Chile,sachl,chl,Tangerines,134120673
+South America,sa,Colombia,sacol,col,Tangerines,254351
+South America,sa,Ecuador,saecu,ecu,Tangerines,365827
+South America,sa,Guyana,saguy,guy,Tangerines,86
+South America,sa,Peru,saper,per,Tangerines,51252073
+South America,sa,Paraguay,sapry,pry,Tangerines,1985
+South America,sa,Uruguay,saury,ury,Tangerines,20668886
+South America,sa,Argentina,saarg,arg,Ginger,100534
+South America,sa,Brazil,sabra,bra,Ginger,54058893
+South America,sa,Chile,sachl,chl,Ginger,48657
+South America,sa,Colombia,sacol,col,Ginger,84047
+South America,sa,Ecuador,saecu,ecu,Ginger,1313422
+South America,sa,Guyana,saguy,guy,Ginger,19731
+South America,sa,Peru,saper,per,Ginger,88135671
+South America,sa,Paraguay,sapry,pry,Ginger,51107
+South America,sa,Suriname,sasur,sur,Ginger,282
+South America,sa,Uruguay,saury,ury,Ginger,1633
+South America,sa,Venezuela,saven,ven,Ginger,642
+South America,sa,Argentina,saarg,arg,Grape,59191096
+South America,sa,Bolivia,sabol,bol,Grape,6428
+South America,sa,Brazil,sabra,bra,Grape,168826363
+South America,sa,Chile,sachl,chl,Grape,1081601212
+South America,sa,Colombia,sacol,col,Grape,119224
+South America,sa,Ecuador,saecu,ecu,Grape,1720441
+South America,sa,Peru,saper,per,Grape,1234919991
+South America,sa,Suriname,sasur,sur,Grape,20918
+South America,sa,Uruguay,saury,ury,Grape,53745
+South America,sa,Venezuela,saven,ven,Grape,87
+South America,sa,Argentina,saarg,arg,Mangos,511915
+South America,sa,Bolivia,sabol,bol,Mangos,785
+South America,sa,Brazil,sabra,bra,Mangos,289191714
+South America,sa,Chile,sachl,chl,Mangos,1126650
+South America,sa,Colombia,sacol,col,Mangos,14167279
+South America,sa,Ecuador,saecu,ecu,Mangos,50950062
+South America,sa,Guyana,saguy,guy,Mangos,27195
+South America,sa,Peru,saper,per,Mangos,334056929
+South America,sa,Paraguay,sapry,pry,Mangos,1857
+South America,sa,Suriname,sasur,sur,Mangos,6471
+South America,sa,Uruguay,saury,ury,Mangos,4544
+South America,sa,Venezuela,saven,ven,Mangos,430399
+South America,sa,Argentina,saarg,arg,Onions,175574089
+South America,sa,Brazil,sabra,bra,Onions,2756767
+South America,sa,Chile,sachl,chl,Onions,55550454
+South America,sa,Colombia,sacol,col,Onions,4302025
+South America,sa,Ecuador,saecu,ecu,Onions,1326409
+South America,sa,Falkland Islands,saflk,flk,Onions,613
+South America,sa,Guyana,saguy,guy,Onions,221
+South America,sa,Peru,saper,per,Onions,120570584
+South America,sa,Paraguay,sapry,pry,Onions,59146
+South America,sa,Suriname,sasur,sur,Onions,10707
+South America,sa,Uruguay,saury,ury,Onions,156955
+South America,sa,Venezuela,saven,ven,Onions,512
+Oceania,oc,Australia,ocaus,aus,Asparagus,8008817
+Oceania,oc,Fiji,ocfji,fji,Asparagus,3410
+Oceania,oc,New Zealand,ocnzl,nzl,Asparagus,88020
+Oceania,oc,Australia,ocaus,aus,Avocados,31130844
+Oceania,oc,Guam,ocgum,gum,Avocados,930
+Oceania,oc,Nauru,ocnru,nru,Avocados,963
+Oceania,oc,New Zealand,ocnzl,nzl,Avocados,97989273
+Oceania,oc,Samoa,ocwsm,wsm,Avocados,4
+Oceania,oc,Australia,ocaus,aus,Bananas,156382
+Oceania,oc,Fiji,ocfji,fji,Bananas,6904
+Oceania,oc,New Zealand,ocnzl,nzl,Bananas,62843
+Oceania,oc,Solomon Islands,ocslb,slb,Bananas,12
+Oceania,oc,Samoa,ocwsm,wsm,Bananas,26807
+Unknown,xx,World,xxwld,wld,Bananas,2657160
+Oceania,oc,Australia,ocaus,aus,Berries,10790397
+Oceania,oc,Cook Islands,occok,cok,Berries,6278
+Oceania,oc,Micronesia,ocfsm,fsm,Berries,21570
+Oceania,oc,New Zealand,ocnzl,nzl,Berries,40911508
+Oceania,oc,Solomon Islands,ocslb,slb,Berries,33665
+Oceania,oc,Australia,ocaus,aus,Tangerines,141106701
+Oceania,oc,Fiji,ocfji,fji,Tangerines,595
+Oceania,oc,New Zealand,ocnzl,nzl,Tangerines,1419867
+Oceania,oc,Samoa,ocwsm,wsm,Tangerines,64687
+Oceania,oc,Australia,ocaus,aus,Ginger,961933
+Oceania,oc,Fiji,ocfji,fji,Ginger,2389934
+Oceania,oc,New Zealand,ocnzl,nzl,Ginger,457517
+Oceania,oc,French Polynesia,ocpyf,pyf,Ginger,98
+Oceania,oc,Vanuatu,ocvut,vut,Ginger,451
+Oceania,oc,American Samoa,ocasm,asm,Grape,42
+Oceania,oc,Australia,ocaus,aus,Grape,389105581
+Oceania,oc,Fiji,ocfji,fji,Grape,6199
+Oceania,oc,New Zealand,ocnzl,nzl,Grape,1574512
+Oceania,oc,Palau,ocplw,plw,Grape,91
+Oceania,oc,Tokelau,octkl,tkl,Grape,85640
+Oceania,oc,Australia,ocaus,aus,Mangos,14279366
+Oceania,oc,Fiji,ocfji,fji,Mangos,209832
+Oceania,oc,New Caledonia,ocncl,ncl,Mangos,139
+Oceania,oc,New Zealand,ocnzl,nzl,Mangos,92762
+Oceania,oc,French Polynesia,ocpyf,pyf,Mangos,399
+Oceania,oc,Tonga,octon,ton,Mangos,44
+Oceania,oc,Samoa,ocwsm,wsm,Mangos,153
+Oceania,oc,American Samoa,ocasm,asm,Onions,1138
+Oceania,oc,Australia,ocaus,aus,Onions,28296635
+Oceania,oc,Cook Islands,occok,cok,Onions,568
+Oceania,oc,Fiji,ocfji,fji,Onions,85161
+Oceania,oc,New Zealand,ocnzl,nzl,Onions,137398587
+Oceania,oc,Solomon Islands,ocslb,slb,Onions,105
+Oceania,oc,Samoa,ocwsm,wsm,Onions,622
