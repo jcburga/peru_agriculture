@@ -1,3 +1,5 @@
-an automated financial_placement decision_making_system for sustainable_blended_investments in agriculture in Peru, as a model for the Andean Sub Region of Latin America (a 135 million people market conformed by 5 countries: Bolivia, Chile, Colombia, Ecuador, Peru) 
+Gender Gap in Agriculture in Peru: 
+A Python Program for Impact Investment Placements in Agriculture in Peru
+As a model for the Andean Sub Region of Latin America (a 135 million people economic region conformed by 5 countries: Bolivia, Chile, Colombia, Ecuador, Peru) 
 
-#fintech  #agriculture #peru #andean_region
+#fintech #financial_inclusion #agriculture #peru #andean_region
